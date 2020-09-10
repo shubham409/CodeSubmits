@@ -16,6 +16,7 @@ public class Code15 {
 
         for (char c : ar) {
             
+            
             if(!Code15.isVovel(c))
             System.out.print('.'+ String.valueOf(c));
         }
