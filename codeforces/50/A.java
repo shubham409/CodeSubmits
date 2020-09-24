@@ -8,5 +8,4 @@ public class Run {
         int j = sc.nextInt();
         System.out.println((int)Math.floor(i*j/2) );
     }
-    
 }
