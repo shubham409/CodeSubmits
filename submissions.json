@@ -86,6 +86,23 @@
     ],
     "timestamp": "Jan/01/2021 16:02"
   },
+  "CF93721210": {
+    "contest_id": 50,
+    "language": "Java 11",
+    "path": "codeforces\\50\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino piling",
+    "problem_url": "https://codeforces.com/contest/50/problem/A",
+    "submission_id": "CF93721210",
+    "submission_url": "https://codeforces.com/contest/50/submission/93721210",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/24/2020 23:33"
+  },
   "CF93722017": {
     "contest_id": 50,
     "language": "Python 3",
