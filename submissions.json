@@ -1,4 +1,21 @@
 {
+  "CF102939047": {
+    "contest_id": 996,
+    "language": "Python 3",
+    "path": "codeforces\\996\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hit the Lottery",
+    "problem_url": "https://codeforces.com/contest/996/problem/A",
+    "submission_id": "CF102939047",
+    "submission_url": "https://codeforces.com/contest/996/submission/102939047",
+    "tags": [
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/01/2021 03:32"
+  },
   "CF102950261": {
     "contest_id": 894,
     "language": "Python 3",
