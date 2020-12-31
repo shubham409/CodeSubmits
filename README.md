@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-3 | [A - QAQ](https://codeforces.com/contest/894/problem/A) | [Python 3](./codeforces/894/A.py) | `brute force` `dp` `*800` | Jan/01/2021 16:02 | 
-2 | [A - Hit the Lottery](https://codeforces.com/contest/996/problem/A) | [Python 3](./codeforces/996/A.py) | `dp` `greedy` `*800` | Jan/01/2021 03:32 | 
-1 | [A - Alex and a Rhombus](https://codeforces.com/contest/1180/problem/A) | [Python 3](./codeforces/1180/A.py) | `dp` `implementation` `math` `*800` | Jan/01/2021 03:18 | 
+4 | [A - QAQ](https://codeforces.com/contest/894/problem/A) | [Python 3](./codeforces/894/A.py) | `brute force` `dp` `*800` | Jan/01/2021 16:02 | 
+3 | [A - Hit the Lottery](https://codeforces.com/contest/996/problem/A) | [Python 3](./codeforces/996/A.py) | `dp` `greedy` `*800` | Jan/01/2021 03:32 | 
+2 | [A - Alex and a Rhombus](https://codeforces.com/contest/1180/problem/A) | [Python 3](./codeforces/1180/A.py) | `dp` `implementation` `math` `*800` | Jan/01/2021 03:18 | 
+1 | [A - Maximum Increase](https://codeforces.com/contest/702/problem/A) | [Python 3](./codeforces/702/A.py) | `dp` `greedy` `implementation` `*800` | Dec/31/2020 19:53 | 
