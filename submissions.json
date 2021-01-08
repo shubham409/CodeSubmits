@@ -1,4 +1,20 @@
 {
+  "AC19263503": {
+    "contest_id": "abc187",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc187\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Large Digits",
+    "problem_url": "https://atcoder.jp/contests/abc187/tasks/abc187_a",
+    "submission_id": "AC19263503",
+    "submission_url": "https://atcoder.jp/contests/abc187/submissions/19263503",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/08/2021 15:53"
+  },
   "CF100257587": {
     "contest_id": 1455,
     "language": "Java 11",
