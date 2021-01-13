@@ -15,6 +15,22 @@
     ],
     "timestamp": "Jan/08/2021 15:53"
   },
+  "AC19421229": {
+    "contest_id": "abc188",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc188\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Three-Point Shot",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_a",
+    "submission_id": "AC19421229",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/19421229",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/14/2021 01:16"
+  },
   "CF100257587": {
     "contest_id": 1455,
     "language": "Java 11",

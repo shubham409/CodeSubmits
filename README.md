@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+26 | [A - Three-Point Shot](https://atcoder.jp/contests/abc188/tasks/abc188_a) | [Python (3.8.2)](./atcoder/abc188/A.py) | `AtCoder` `*100` | Jan/14/2021 01:16 | 
 25 | [A - Large Digits](https://atcoder.jp/contests/abc187/tasks/abc187_a) | [Python (3.8.2)](./atcoder/abc187/A.py) | `AtCoder` `*100` | Jan/08/2021 15:53 | 
 24 | [A - QAQ](https://codeforces.com/contest/894/problem/A) | [Python 3](./codeforces/894/A.py) | `brute force` `dp` `*800` | Jan/01/2021 16:02 | 
 23 | [A - Hit the Lottery](https://codeforces.com/contest/996/problem/A) | [Python 3](./codeforces/996/A.py) | `dp` `greedy` `*800` | Jan/01/2021 03:32 | 
