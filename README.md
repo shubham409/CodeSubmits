@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-27 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Jan/16/2021 17:07 | 
+28 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Jan/16/2021 17:07 | 
+27 | [A - Filling Shapes](https://codeforces.com/contest/1182/problem/A) | [GNU C++17](./codeforces/1182/A.cpp) | `dp` `math` `*1000` | Jan/16/2021 14:01 | 
 26 | [A - Three-Point Shot](https://atcoder.jp/contests/abc188/tasks/abc188_a) | [Python (3.8.2)](./atcoder/abc188/A.py) | `AtCoder` `*100` | Jan/14/2021 01:16 | 
 25 | [A - Large Digits](https://atcoder.jp/contests/abc187/tasks/abc187_a) | [Python (3.8.2)](./atcoder/abc187/A.py) | `AtCoder` `*100` | Jan/08/2021 15:53 | 
 24 | [A - QAQ](https://codeforces.com/contest/894/problem/A) | [Python 3](./codeforces/894/A.py) | `brute force` `dp` `*800` | Jan/01/2021 16:02 | 

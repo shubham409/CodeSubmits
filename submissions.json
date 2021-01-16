@@ -118,6 +118,23 @@
     ],
     "timestamp": "Jan/01/2021 16:02"
   },
+  "CF104486442": {
+    "contest_id": 1182,
+    "language": "GNU C++17",
+    "path": "codeforces\\1182\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Filling Shapes",
+    "problem_url": "https://codeforces.com/contest/1182/problem/A",
+    "submission_id": "CF104486442",
+    "submission_url": "https://codeforces.com/contest/1182/submission/104486442",
+    "tags": [
+      "dp",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/16/2021 14:01"
+  },
   "CF104504656": {
     "contest_id": 1469,
     "language": "Java 11",
