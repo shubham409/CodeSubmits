@@ -152,6 +152,24 @@
     ],
     "timestamp": "Jan/16/2021 17:07"
   },
+  "CF105075829": {
+    "contest_id": 1104,
+    "language": "Java 11",
+    "path": "codeforces\\1104\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Splitting into digits",
+    "problem_url": "https://codeforces.com/contest/1104/problem/A",
+    "submission_id": "CF105075829",
+    "submission_url": "https://codeforces.com/contest/1104/submission/105075829",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/22/2021 20:45"
+  },
   "CF83929825": {
     "contest_id": 4,
     "language": "Python 3",
