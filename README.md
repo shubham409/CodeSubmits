@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-29 | [A - Splitting into digits](https://codeforces.com/contest/1104/problem/A) | [Java 11](./codeforces/1104/A.java) | `constructive algorithms` `implementation` `math` `*800` | Jan/22/2021 20:45 | 
+30 | [A - Splitting into digits](https://codeforces.com/contest/1104/problem/A) | [Java 11](./codeforces/1104/A.java) | `constructive algorithms` `implementation` `math` `*800` | Jan/22/2021 20:45 | 
+29 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [Java 11](./codeforces/69/A.java) | `implementation` `math` `*1000` | Jan/22/2021 19:30 | 
 28 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Jan/16/2021 17:07 | 
 27 | [A - Filling Shapes](https://codeforces.com/contest/1182/problem/A) | [GNU C++17](./codeforces/1182/A.cpp) | `dp` `math` `*1000` | Jan/16/2021 14:01 | 
 26 | [A - Three-Point Shot](https://atcoder.jp/contests/abc188/tasks/abc188_a) | [Python (3.8.2)](./atcoder/abc188/A.py) | `AtCoder` `*100` | Jan/14/2021 01:16 | 
