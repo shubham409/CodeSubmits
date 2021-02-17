@@ -187,6 +187,23 @@
     ],
     "timestamp": "Jan/22/2021 20:45"
   },
+  "CF107687995": {
+    "contest_id": 1481,
+    "language": "Java 8",
+    "path": "codeforces\\1481\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Space Navigation ",
+    "problem_url": "https://codeforces.com/contest/1481/problem/A",
+    "submission_id": "CF107687995",
+    "submission_url": "https://codeforces.com/contest/1481/submission/107687995",
+    "tags": [
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/17/2021 17:34"
+  },
   "CF107756048": {
     "contest_id": 1485,
     "language": "Python 3",
