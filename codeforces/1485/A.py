@@ -18,11 +18,10 @@ def fun(ls):
             while temp_a>0:
                 temp_a=floor(temp_a/temp_b)
                 first_operation+=1
-            ans=min(ans, first_operation+second_operation+count_operations)
             b+=1
             second_operation+=1
-            
-        
+            ans=min(ans, first_operation+second_operation+count_operations)
+        ans=ans-1
     else:
         first_operation = 0
         temp_a=a
