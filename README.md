@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-31 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Python 3](./codeforces/1486/A.py) | `greedy` `implementation` | Feb/19/2021 12:38 | 
+32 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Python 3](./codeforces/1486/A.py) | `greedy` `implementation` | Feb/19/2021 12:38 | 
+31 | [A - Add and Divide](https://codeforces.com/contest/1485/problem/A) | [Python 3](./codeforces/1485/A.py) | `brute force` `greedy` `math` `number theory` `*1000` | Feb/18/2021 14:07 | 
 30 | [A - Splitting into digits](https://codeforces.com/contest/1104/problem/A) | [Java 11](./codeforces/1104/A.java) | `constructive algorithms` `implementation` `math` `*800` | Jan/22/2021 20:45 | 
 29 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [Java 11](./codeforces/69/A.java) | `implementation` `math` `*1000` | Jan/22/2021 19:30 | 
 28 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [Java 11](./codeforces/1469/B.java) | `dp` `greedy` `*1000` | Jan/16/2021 17:07 | 
