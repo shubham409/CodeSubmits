@@ -11,7 +11,7 @@ def fun(ls):
             b += 1
             count_operations += 1
         second_operation = 0 
-        while(b <= 31):
+        while(b <= 30):
             first_operation = 0
             temp_a=a
             temp_b=b

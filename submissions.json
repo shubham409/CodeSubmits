@@ -187,6 +187,25 @@
     ],
     "timestamp": "Jan/22/2021 20:45"
   },
+  "CF107756496": {
+    "contest_id": 1485,
+    "language": "Python 3",
+    "path": "codeforces\\1485\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Add and Divide",
+    "problem_url": "https://codeforces.com/contest/1485/problem/A",
+    "submission_id": "CF107756496",
+    "submission_url": "https://codeforces.com/contest/1485/submission/107756496",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Feb/18/2021 14:00"
+  },
   "CF107756960": {
     "contest_id": 1485,
     "language": "Python 3",
