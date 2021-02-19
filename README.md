@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-36 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [Python 3](./codeforces/1475/A.py) | `math` `number theory` `*900` | Feb/19/2021 18:24 | 
+37 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [Python 3](./codeforces/1475/A.py) | `math` `number theory` `*900` | Feb/19/2021 18:24 | 
+36 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [Python 3](./codeforces/1490/A.py) | `greedy` `math` `*800` | Feb/19/2021 17:06 | 
 35 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [Python 3](./codeforces/1486/A.py) | `greedy` `implementation` | Feb/19/2021 12:38 | 
 34 | [A - Add and Divide](https://codeforces.com/contest/1485/problem/A) | [Python 3](./codeforces/1485/A.py) | `brute force` `greedy` `math` `number theory` `*1000` | Feb/18/2021 14:07 | 
 33 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [Java 8](./codeforces/1481/A.java) | `greedy` `strings` `*800` | Feb/17/2021 17:34 | 
