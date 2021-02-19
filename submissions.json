@@ -187,6 +187,22 @@
     ],
     "timestamp": "Jan/22/2021 20:45"
   },
+  "CF107916021": {
+    "contest_id": 1486,
+    "language": "Python 3",
+    "path": "codeforces\\1486\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shifting Stacks",
+    "problem_url": "https://codeforces.com/contest/1486/problem/A",
+    "submission_id": "CF107916021",
+    "submission_url": "https://codeforces.com/contest/1486/submission/107916021",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Feb/19/2021 12:38"
+  },
   "CF83929825": {
     "contest_id": 4,
     "language": "Python 3",
