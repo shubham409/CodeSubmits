@@ -37,4 +37,5 @@ for i in range(T):
     t= int(input())
     ls= list(map(int,input().split()))
     fun(ls)
- 
+
+
