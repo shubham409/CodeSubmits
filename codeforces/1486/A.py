@@ -10,7 +10,10 @@ def fun(t,ls):
         else:
             print('no')
             return
-    print('yes')
+    if(ind==len(ls)-1):
+        print('yes')
+    else:
+        print('no')
 
 
 T= int(input())
