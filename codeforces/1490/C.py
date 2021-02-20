@@ -1,33 +1,24 @@
-from math import floor,ceil    
 def fun(ls):
     # like two sum
-    n=ls
+    n=ls[0]
+    st=set()
     i=1
     ip3=1
     while(ip3<n):
-        ans = pow(n-ip3,1/3)
-        # ans=int(ans)
-
-        if(pow(ceil(ans),3) ==n-ip3 or pow(floor(ans),3)==n-ip3):
-            
-            return 'yes'
-
+        st.add(ip3)
         i+=1
         ip3=pow(i,3)
-    return 'no'
+    for i in st:
+        if(n-i in st):
+            print('yes')
+            return
+    print('no')
 
 
 
-
-dct={}
+    
 T = int(input())
 for i in range(T):
-    
-    ls = int(input())
-    if(dct.get(ls)!=None):
-        print(dct.get(ls))
-        continue
-
-    ans = fun(ls)
-    print(ans)
-    dct[ls]=ans
+    # ls = list(map(int,input().split()))
+    ls = list(map(int,input().split()))
+    fun(ls)
