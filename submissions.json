@@ -397,6 +397,25 @@
     ],
     "timestamp": "Feb/19/2021 18:24"
   },
+  "CF108024892": {
+    "contest_id": 1476,
+    "language": "Python 3",
+    "path": "codeforces\\1476\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "K-divisible Sum",
+    "problem_url": "https://codeforces.com/contest/1476/problem/A",
+    "submission_id": "CF108024892",
+    "submission_url": "https://codeforces.com/contest/1476/submission/108024892",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/20/2021 17:22"
+  },
   "CF108028936": {
     "contest_id": 1472,
     "language": "Python 3",
