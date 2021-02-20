@@ -397,6 +397,24 @@
     ],
     "timestamp": "Feb/19/2021 18:24"
   },
+  "CF108028936": {
+    "contest_id": 1472,
+    "language": "Python 3",
+    "path": "codeforces\\1472\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fair Division",
+    "problem_url": "https://codeforces.com/contest/1472/problem/B",
+    "submission_id": "CF108028936",
+    "submission_url": "https://codeforces.com/contest/1472/submission/108028936",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/20/2021 18:24"
+  },
   "CF108031170": {
     "contest_id": 1475,
     "language": "Python 3",
