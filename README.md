@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+39 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [Python 3](./codeforces/1490/C.py) | `binary search` `brute force` `brute force` `math` `*1100` | Feb/21/2021 02:13 | 
 38 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [Python 3](./codeforces/1475/A.py) | `math` `number theory` `*900` | Feb/19/2021 18:24 | 
 37 | [A - Dense Array](https://codeforces.com/contest/1490/problem/A) | [Python 3](./codeforces/1490/A.py) | `greedy` `math` `*800` | Feb/19/2021 17:06 | 
 36 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [Python 3](./codeforces/1490/B.py) | `brute force` `constructive algorithms` `math` `*1000` | Feb/19/2021 16:21 | 
