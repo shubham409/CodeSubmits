@@ -1,4 +1,5 @@
 def fun(ls,d):
+    st=set(ls)
     ls=sorted(ls)
     if(ls[-1]<=d):
         print('yes')
@@ -7,6 +8,9 @@ def fun(ls,d):
         print('yes')
         return
     print('no')
+
+    
+
 
 T= int(input())
 for i in range(T):

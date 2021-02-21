@@ -526,6 +526,25 @@
     ],
     "timestamp": "Feb/21/2021 02:13"
   },
+  "CF108105170": {
+    "contest_id": 1473,
+    "language": "Python 3",
+    "path": "codeforces\\1473\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Replacing Elements",
+    "problem_url": "https://codeforces.com/contest/1473/problem/A",
+    "submission_id": "CF108105170",
+    "submission_url": "https://codeforces.com/contest/1473/submission/108105170",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Feb/21/2021 18:34"
+  },
   "CF108105217": {
     "contest_id": 1473,
     "language": "Python 3",
