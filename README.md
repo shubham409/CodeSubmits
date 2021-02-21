@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+45 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [Python 3](./codeforces/1472/A.py) | `greedy` `math` `*800` | Feb/21/2021 23:01 | 
 44 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [Python 3](./codeforces/1490/C.py) | `binary search` `brute force` `brute force` `math` `*1100` | Feb/21/2021 02:13 | 
 43 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [Python 3](./codeforces/1480/B.py) | `greedy` `implementation` `sortings` `*900` | Feb/20/2021 21:55 | 
 42 | [B - New Year's Number](https://codeforces.com/contest/1475/problem/B) | [Python 3](./codeforces/1475/B.py) | `brute force` `dp` `math` `*900` | Feb/20/2021 18:57 | 
