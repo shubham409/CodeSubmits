@@ -526,6 +526,22 @@
     ],
     "timestamp": "Feb/21/2021 02:13"
   },
+  "CF108108980": {
+    "contest_id": 1474,
+    "language": "Python 3",
+    "path": "codeforces\\1474\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzle From the Future",
+    "problem_url": "https://codeforces.com/contest/1474/problem/A",
+    "submission_id": "CF108108980",
+    "submission_url": "https://codeforces.com/contest/1474/submission/108108980",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/21/2021 19:32"
+  },
   "CF108122300": {
     "contest_id": 1472,
     "language": "Python 3",
