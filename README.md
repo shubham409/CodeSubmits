@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-51 | [B - Last Year's Substring](https://codeforces.com/contest/1462/problem/B) | [Python 3](./codeforces/1462/B.py) | `dp` `implementation` `strings` `*800` | Feb/23/2021 17:48 | 
-50 | [E - Four Segments](https://codeforces.com/contest/1468/problem/E) | [Python 3](./codeforces/1468/E.py) | `greedy` `*800` | Feb/23/2021 00:21 | 
-49 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Python 3](./codeforces/1466/B.py) | `dp` `greedy` `*800` | Feb/22/2021 23:55 | 
+52 | [B - Last Year's Substring](https://codeforces.com/contest/1462/problem/B) | [Python 3](./codeforces/1462/B.py) | `dp` `implementation` `strings` `*800` | Feb/23/2021 17:48 | 
+51 | [E - Four Segments](https://codeforces.com/contest/1468/problem/E) | [Python 3](./codeforces/1468/E.py) | `greedy` `*800` | Feb/23/2021 00:21 | 
+50 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Python 3](./codeforces/1466/B.py) | `dp` `greedy` `*800` | Feb/22/2021 23:55 | 
+49 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [Java 8](./codeforces/281/A.java) | `implementation` `strings` `*800` | Feb/22/2021 23:51 | 
 48 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [Python 3](./codeforces/1472/A.py) | `greedy` `math` `*800` | Feb/21/2021 23:01 | 
 47 | [A - Puzzle From the Future](https://codeforces.com/contest/1474/problem/A) | [Python 3](./codeforces/1474/A.py) | `greedy` `*800` | Feb/21/2021 19:32 | 
 46 | [A - Replacing Elements](https://codeforces.com/contest/1473/problem/A) | [Python 3](./codeforces/1473/A.py) | `greedy` `implementation` `math` `sortings` `*800` | Feb/21/2021 18:35 | 
