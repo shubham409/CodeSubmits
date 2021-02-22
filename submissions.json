@@ -617,6 +617,22 @@
     ],
     "timestamp": "Feb/21/2021 23:01"
   },
+  "CF108204986": {
+    "contest_id": 1468,
+    "language": "Python 3",
+    "path": "codeforces\\1468\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Four Segments",
+    "problem_url": "https://codeforces.com/contest/1468/problem/E",
+    "submission_id": "CF108204986",
+    "submission_url": "https://codeforces.com/contest/1468/submission/108204986",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/23/2021 00:21"
+  },
   "CF108296371": {
     "contest_id": 1462,
     "language": "Python 3",
