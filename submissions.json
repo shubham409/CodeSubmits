@@ -617,6 +617,24 @@
     ],
     "timestamp": "Feb/21/2021 23:01"
   },
+  "CF108153661": {
+    "contest_id": 1471,
+    "language": "Python 3",
+    "path": "codeforces\\1471\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Partition",
+    "problem_url": "https://codeforces.com/contest/1471/problem/A",
+    "submission_id": "CF108153661",
+    "submission_url": "https://codeforces.com/contest/1471/submission/108153661",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Feb/22/2021 12:54"
+  },
   "CF108203154": {
     "contest_id": 1467,
     "language": "Python 3",
