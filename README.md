@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-55 | [A - C+=](https://codeforces.com/contest/1368/problem/A) | [Python 3](./codeforces/1368/A.py) | `brute force` `greedy` `implementation` `math` `*800` | Feb/24/2021 00:27 | 
+56 | [A - C+=](https://codeforces.com/contest/1368/problem/A) | [Python 3](./codeforces/1368/A.py) | `brute force` `greedy` `implementation` `math` `*800` | Feb/24/2021 00:27 | 
+55 | [A - Subtract or Divide](https://codeforces.com/contest/1451/problem/A) | [Python 3](./codeforces/1451/A.py) | `greedy` `math` `*800` | Feb/23/2021 23:22 | 
 54 | [B - Last Year's Substring](https://codeforces.com/contest/1462/problem/B) | [Python 3](./codeforces/1462/B.py) | `dp` `implementation` `strings` `*800` | Feb/23/2021 17:48 | 
 53 | [E - Four Segments](https://codeforces.com/contest/1468/problem/E) | [Python 3](./codeforces/1468/E.py) | `greedy` `*800` | Feb/23/2021 00:21 | 
 52 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [Python 3](./codeforces/1466/B.py) | `dp` `greedy` `*800` | Feb/22/2021 23:55 | 

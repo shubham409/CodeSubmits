@@ -721,6 +721,23 @@
     ],
     "timestamp": "Feb/23/2021 17:48"
   },
+  "CF108332140": {
+    "contest_id": 1451,
+    "language": "Python 3",
+    "path": "codeforces\\1451\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subtract or Divide",
+    "problem_url": "https://codeforces.com/contest/1451/problem/A",
+    "submission_id": "CF108332140",
+    "submission_url": "https://codeforces.com/contest/1451/submission/108332140",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/23/2021 23:22"
+  },
   "CF108336340": {
     "contest_id": 1368,
     "language": "Kotlin",
