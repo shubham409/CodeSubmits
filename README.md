@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+60 | [C - Unique Number](https://codeforces.com/contest/1462/problem/C) | [Python 3](./codeforces/1462/C.py) | `brute force` `greedy` `math` `*900` | Feb/25/2021 00:39 | 
 59 | [A - Robot Program](https://codeforces.com/contest/1452/problem/A) | [Kotlin](./codeforces/1452/A.kt) | `math` `*800` | Feb/24/2021 14:07 | 
 58 | [A - Special Permutation](https://codeforces.com/contest/1454/problem/A) | [Kotlin](./codeforces/1454/A.kt) | `constructive algorithms` `probabilities` `*800` | Feb/24/2021 13:04 | 
 57 | [A - C+=](https://codeforces.com/contest/1368/problem/A) | [PyPy 3](./codeforces/1368/A.py) | `brute force` `greedy` `implementation` `math` `*800` | Feb/24/2021 00:27 | 
