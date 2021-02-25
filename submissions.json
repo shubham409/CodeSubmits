@@ -898,6 +898,23 @@
     ],
     "timestamp": "Feb/25/2021 00:39"
   },
+  "CF108494764": {
+    "contest_id": 1450,
+    "language": "Python 3",
+    "path": "codeforces\\1450\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Avoid Trygub",
+    "problem_url": "https://codeforces.com/contest/1450/problem/A",
+    "submission_id": "CF108494764",
+    "submission_url": "https://codeforces.com/contest/1450/submission/108494764",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Feb/25/2021 23:27"
+  },
   "CF108539410": {
     "contest_id": 1461,
     "language": "Python 3",
