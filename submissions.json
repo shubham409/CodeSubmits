@@ -898,6 +898,23 @@
     ],
     "timestamp": "Feb/25/2021 00:39"
   },
+  "CF108561456": {
+    "contest_id": 1422,
+    "language": "Python 3",
+    "path": "codeforces\\1422\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fence",
+    "problem_url": "https://codeforces.com/contest/1422/problem/A",
+    "submission_id": "CF108561456",
+    "submission_url": "https://codeforces.com/contest/1422/submission/108561456",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/26/2021 23:50"
+  },
   "CF108561506": {
     "contest_id": 1422,
     "language": "Python 3",
