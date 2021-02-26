@@ -898,6 +898,23 @@
     ],
     "timestamp": "Feb/25/2021 00:39"
   },
+  "CF108539410": {
+    "contest_id": 1461,
+    "language": "Python 3",
+    "path": "codeforces\\1461\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Generation",
+    "problem_url": "https://codeforces.com/contest/1461/problem/A",
+    "submission_id": "CF108539410",
+    "submission_url": "https://codeforces.com/contest/1461/submission/108539410",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/26/2021 18:37"
+  },
   "CF108546560": {
     "contest_id": 1421,
     "language": "Python 3",

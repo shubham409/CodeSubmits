@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-72 | [A - K-th Largest Value](https://codeforces.com/contest/1491/problem/A) | [Python 3](./codeforces/1491/A.py) | `brute force` `greedy` `implementation` | Feb/28/2021 23:02 | 
-71 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [Python 3](./codeforces/230/B.py) | `binary search` `implementation` `math` `number theory` `*1300` | Feb/28/2021 22:23 | 
-70 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [Python 3](./codeforces/32/B.py) | `expression parsing` `implementation` `*800` | Feb/27/2021 23:54 | 
-69 | [A - Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A) | [Python 3](./codeforces/1459/A.py) | `math` `probabilities` `*800` | Feb/27/2021 23:37 | 
-68 | [A - A+B (Trial Problem)](https://codeforces.com/contest/1351/problem/A) | [Python 3](./codeforces/1351/A.py) | `implementation` `*800` | Feb/27/2021 23:32 | 
-67 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [Python 3](./codeforces/1466/A.py) | `brute force` `geometry` `math` `*800` | Feb/27/2021 23:15 | 
-66 | [A - Fence](https://codeforces.com/contest/1422/problem/A) | [Python 3](./codeforces/1422/A.py) | `geometry` `math` `*800` | Feb/26/2021 23:50 | 
-65 | [A - Reorder](https://codeforces.com/contest/1436/problem/A) | [Python 3](./codeforces/1436/A.py) | `math` `*800` | Feb/26/2021 21:54 | 
-64 | [A - Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | [Python 3](./codeforces/1385/A.py) | `math` `*800` | Feb/26/2021 20:50 | 
-63 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [Python 3](./codeforces/1421/A.py) | `bitmasks` `greedy` `math` `*800` | Feb/26/2021 20:21 | 
+73 | [A - K-th Largest Value](https://codeforces.com/contest/1491/problem/A) | [Python 3](./codeforces/1491/A.py) | `brute force` `greedy` `implementation` | Feb/28/2021 23:02 | 
+72 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [Python 3](./codeforces/230/B.py) | `binary search` `implementation` `math` `number theory` `*1300` | Feb/28/2021 22:23 | 
+71 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [Python 3](./codeforces/32/B.py) | `expression parsing` `implementation` `*800` | Feb/27/2021 23:54 | 
+70 | [A - Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A) | [Python 3](./codeforces/1459/A.py) | `math` `probabilities` `*800` | Feb/27/2021 23:37 | 
+69 | [A - A+B (Trial Problem)](https://codeforces.com/contest/1351/problem/A) | [Python 3](./codeforces/1351/A.py) | `implementation` `*800` | Feb/27/2021 23:32 | 
+68 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [Python 3](./codeforces/1466/A.py) | `brute force` `geometry` `math` `*800` | Feb/27/2021 23:15 | 
+67 | [A - Fence](https://codeforces.com/contest/1422/problem/A) | [Python 3](./codeforces/1422/A.py) | `geometry` `math` `*800` | Feb/26/2021 23:50 | 
+66 | [A - Reorder](https://codeforces.com/contest/1436/problem/A) | [Python 3](./codeforces/1436/A.py) | `math` `*800` | Feb/26/2021 21:54 | 
+65 | [A - Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | [Python 3](./codeforces/1385/A.py) | `math` `*800` | Feb/26/2021 20:50 | 
+64 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [Python 3](./codeforces/1421/A.py) | `bitmasks` `greedy` `math` `*800` | Feb/26/2021 20:21 | 
+63 | [A - String Generation](https://codeforces.com/contest/1461/problem/A) | [Python 3](./codeforces/1461/A.py) | `constructive algorithms` `greedy` `*800` | Feb/26/2021 18:37 | 
 62 | [C - Unique Number](https://codeforces.com/contest/1462/problem/C) | [Python 3](./codeforces/1462/C.py) | `brute force` `greedy` `math` `*900` | Feb/25/2021 00:39 | 
 61 | [A - Two Substrings](https://codeforces.com/contest/550/problem/A) | [Python 3](./codeforces/550/A.py) | `brute force` `dp` `greedy` `implementation` `strings` `*1500` | Feb/25/2021 00:08 | 
 60 | [A - Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | [Kotlin](./codeforces/1462/A.kt) | `implementation` `two pointers` `*800` | Feb/24/2021 21:28 | 
