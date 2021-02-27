@@ -898,6 +898,24 @@
     ],
     "timestamp": "Feb/25/2021 00:39"
   },
+  "CF108622587": {
+    "contest_id": 1466,
+    "language": "Python 3",
+    "path": "codeforces\\1466\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bovine Dilemma",
+    "problem_url": "https://codeforces.com/contest/1466/problem/A",
+    "submission_id": "CF108622587",
+    "submission_url": "https://codeforces.com/contest/1466/submission/108622587",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/27/2021 23:15"
+  },
   "CF108623341": {
     "contest_id": 1351,
     "language": "Python 3",
