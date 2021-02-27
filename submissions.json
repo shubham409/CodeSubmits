@@ -898,6 +898,22 @@
     ],
     "timestamp": "Feb/25/2021 00:39"
   },
+  "CF108623341": {
+    "contest_id": 1351,
+    "language": "Python 3",
+    "path": "codeforces\\1351\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A+B (Trial Problem)",
+    "problem_url": "https://codeforces.com/contest/1351/problem/A",
+    "submission_id": "CF108623341",
+    "submission_url": "https://codeforces.com/contest/1351/submission/108623341",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/27/2021 23:32"
+  },
   "CF108623571": {
     "contest_id": 1459,
     "language": "Python 3",
