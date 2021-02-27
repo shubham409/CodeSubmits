@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-65 | [A - K-th Largest Value](https://codeforces.com/contest/1491/problem/A) | [Python 3](./codeforces/1491/A.py) | `brute force` `greedy` `implementation` | Feb/28/2021 23:02 | 
-64 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [Python 3](./codeforces/230/B.py) | `binary search` `implementation` `math` `number theory` `*1300` | Feb/28/2021 22:23 | 
-63 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [Python 3](./codeforces/32/B.py) | `expression parsing` `implementation` `*800` | Feb/27/2021 23:54 | 
+66 | [A - K-th Largest Value](https://codeforces.com/contest/1491/problem/A) | [Python 3](./codeforces/1491/A.py) | `brute force` `greedy` `implementation` | Feb/28/2021 23:02 | 
+65 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [Python 3](./codeforces/230/B.py) | `binary search` `implementation` `math` `number theory` `*1300` | Feb/28/2021 22:23 | 
+64 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [Python 3](./codeforces/32/B.py) | `expression parsing` `implementation` `*800` | Feb/27/2021 23:54 | 
+63 | [A - Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A) | [Python 3](./codeforces/1459/A.py) | `math` `probabilities` `*800` | Feb/27/2021 23:37 | 
 62 | [C - Unique Number](https://codeforces.com/contest/1462/problem/C) | [Python 3](./codeforces/1462/C.py) | `brute force` `greedy` `math` `*900` | Feb/25/2021 00:39 | 
 61 | [A - Two Substrings](https://codeforces.com/contest/550/problem/A) | [Python 3](./codeforces/550/A.py) | `brute force` `dp` `greedy` `implementation` `strings` `*1500` | Feb/25/2021 00:08 | 
 60 | [A - Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | [Kotlin](./codeforces/1462/A.kt) | `implementation` `two pointers` `*800` | Feb/24/2021 21:28 | 
