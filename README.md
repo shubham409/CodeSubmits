@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+63 | [A - K-th Largest Value](https://codeforces.com/contest/1491/problem/A) | [Python 3](./codeforces/1491/A.py) | `brute force` `greedy` `implementation` | Feb/28/2021 23:02 | 
 62 | [C - Unique Number](https://codeforces.com/contest/1462/problem/C) | [Python 3](./codeforces/1462/C.py) | `brute force` `greedy` `math` `*900` | Feb/25/2021 00:39 | 
 61 | [A - Two Substrings](https://codeforces.com/contest/550/problem/A) | [Python 3](./codeforces/550/A.py) | `brute force` `dp` `greedy` `implementation` `strings` `*1500` | Feb/25/2021 00:08 | 
 60 | [A - Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | [Kotlin](./codeforces/1462/A.kt) | `implementation` `two pointers` `*800` | Feb/24/2021 21:28 | 

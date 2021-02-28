@@ -898,6 +898,23 @@
     ],
     "timestamp": "Feb/25/2021 00:39"
   },
+  "CF108747461": {
+    "contest_id": 1491,
+    "language": "Python 3",
+    "path": "codeforces\\1491\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "K-th Largest Value",
+    "problem_url": "https://codeforces.com/contest/1491/problem/A",
+    "submission_id": "CF108747461",
+    "submission_url": "https://codeforces.com/contest/1491/submission/108747461",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Feb/28/2021 23:02"
+  },
   "CF83929825": {
     "contest_id": 4,
     "language": "Python 3",
