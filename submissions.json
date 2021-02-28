@@ -1136,6 +1136,22 @@
     ],
     "timestamp": "Feb/28/2021 23:02"
   },
+  "CF108749920": {
+    "contest_id": 1491,
+    "language": "Python 3",
+    "path": "codeforces\\1491\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimal Cost",
+    "problem_url": "https://codeforces.com/contest/1491/problem/B",
+    "submission_id": "CF108749920",
+    "submission_url": "https://codeforces.com/contest/1491/submission/108749920",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/28/2021 23:33"
+  },
   "CF108750238": {
     "contest_id": 1491,
     "language": "Python 3",

@@ -7,7 +7,7 @@ def fun(ls,u,v):
     for i in ls[1::]:
         ans=max(ans,abs(i-prv))
         prv=i
-    if(ans>=2):
+    if(ans>1):
         print(0)
     else:
         print(min(v,u))
@@ -21,3 +21,8 @@ for i in range(T):
     n,u,v= list(map(int,input().split()))
     ls= list(map(int,input().split()))
     fun(ls,u,v)
+    # s=input()
+    # t=input()
+    # fun(s,t,n,m)
+    # st= int(input())
+    # fun(st)
