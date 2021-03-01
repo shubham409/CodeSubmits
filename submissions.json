@@ -1206,6 +1206,24 @@
     ],
     "timestamp": "Mar/01/2021 15:18"
   },
+  "CF108802449": {
+    "contest_id": 753,
+    "language": "Python 3",
+    "path": "codeforces\\753\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Santa Claus and Candies",
+    "problem_url": "https://codeforces.com/contest/753/problem/A",
+    "submission_id": "CF108802449",
+    "submission_url": "https://codeforces.com/contest/753/submission/108802449",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Mar/01/2021 17:53"
+  },
   "CF108816323": {
     "contest_id": 1452,
     "language": "Python 3",
