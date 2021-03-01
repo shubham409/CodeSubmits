@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+77 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [Python 3](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | Mar/01/2021 15:18 | 
 76 | [B - Minimal Cost](https://codeforces.com/contest/1491/problem/B) | [Python 3](./codeforces/1491/B.py) | `implementation` `math` | Feb/28/2021 23:38 | 
 75 | [A - K-th Largest Value](https://codeforces.com/contest/1491/problem/A) | [Python 3](./codeforces/1491/A.py) | `brute force` `greedy` `implementation` | Feb/28/2021 23:02 | 
 74 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [Python 3](./codeforces/230/B.py) | `binary search` `implementation` `math` `number theory` `*1300` | Feb/28/2021 22:23 | 
