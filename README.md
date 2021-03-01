@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-79 | [C - Two Brackets](https://codeforces.com/contest/1452/problem/C) | [Python 3](./codeforces/1452/C.py) | `greedy` `*800` | Mar/01/2021 20:52 | 
-78 | [A - Santa Claus and Candies](https://codeforces.com/contest/753/problem/A) | [Python 3](./codeforces/753/A.py) | `dp` `greedy` `math` `*1000` | Mar/01/2021 17:53 | 
+80 | [C - Two Brackets](https://codeforces.com/contest/1452/problem/C) | [Python 3](./codeforces/1452/C.py) | `greedy` `*800` | Mar/01/2021 20:52 | 
+79 | [A - Santa Claus and Candies](https://codeforces.com/contest/753/problem/A) | [Python 3](./codeforces/753/A.py) | `dp` `greedy` `math` `*1000` | Mar/01/2021 17:53 | 
+78 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [Python 3](./codeforces/1438/B.py) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Mar/01/2021 16:24 | 
 77 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [Python 3](./codeforces/1473/B.py) | `brute force` `math` `number theory` `strings` `*1000` | Mar/01/2021 15:18 | 
 76 | [B - Minimal Cost](https://codeforces.com/contest/1491/problem/B) | [Python 3](./codeforces/1491/B.py) | `implementation` `math` | Feb/28/2021 23:38 | 
 75 | [A - K-th Largest Value](https://codeforces.com/contest/1491/problem/A) | [Python 3](./codeforces/1491/A.py) | `brute force` `greedy` `implementation` | Feb/28/2021 23:02 | 
