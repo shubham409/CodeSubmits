@@ -13,17 +13,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-91 | [B - Sum of Medians](https://codeforces.com/contest/1440/problem/B) | [Python 3](./codeforces/1440/B.py) | `greedy` `math` `*900` | Mar/05/2021 17:09 | 
-90 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [Python 3](./codeforces/266/A.py) | `implementation` `*800` | Mar/04/2021 23:16 | 
-89 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [Python 3](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Mar/04/2021 23:11 | 
-88 | [A - Buy the String](https://codeforces.com/contest/1440/problem/A) | [Python 3](./codeforces/1440/A.py) | `implementation` `math` `*800` | Mar/04/2021 23:06 | 
-87 | [A - Add Candies](https://codeforces.com/contest/1447/problem/A) | [Python 3](./codeforces/1447/A.py) | `constructive algorithms` `math` `*800` | Mar/04/2021 22:46 | 
-86 | [A - Kids Seating](https://codeforces.com/contest/1443/problem/A) | [Python 3](./codeforces/1443/A.py) | `constructive algorithms` `math` `*800` | Mar/03/2021 23:57 | 
-85 | [A - The Monster](https://codeforces.com/contest/787/problem/A) | [Python 3](./codeforces/787/A.py) | `brute force` `math` `number theory` `*1200` | Mar/03/2021 22:44 | 
-84 | [B - Berland Crossword](https://codeforces.com/contest/1494/problem/B) | [Python 3](./codeforces/1494/B.py) | `bitmasks` `brute force` `greedy` `implementation` `*1400` | Mar/03/2021 19:25 | 
-83 | [A - ABC String](https://codeforces.com/contest/1494/problem/A) | [Python 3](./codeforces/1494/A.py) | `bitmasks` `brute force` `implementation` `*900` | Mar/03/2021 18:07 | 
-82 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [Python 3](./codeforces/1469/A.py) | `constructive algorithms` `greedy` `*1000` | Mar/03/2021 17:54 | 
-81 | [A - Football](https://codeforces.com/contest/96/problem/A) | [Python 3](./codeforces/96/A.py) | `implementation` `strings` `*900` | Mar/02/2021 23:09 | 
+92 | [B - Sum of Medians](https://codeforces.com/contest/1440/problem/B) | [Python 3](./codeforces/1440/B.py) | `greedy` `math` `*900` | Mar/05/2021 17:09 | 
+91 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [Python 3](./codeforces/266/A.py) | `implementation` `*800` | Mar/04/2021 23:16 | 
+90 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [Python 3](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Mar/04/2021 23:11 | 
+89 | [A - Buy the String](https://codeforces.com/contest/1440/problem/A) | [Python 3](./codeforces/1440/A.py) | `implementation` `math` `*800` | Mar/04/2021 23:06 | 
+88 | [A - Add Candies](https://codeforces.com/contest/1447/problem/A) | [Python 3](./codeforces/1447/A.py) | `constructive algorithms` `math` `*800` | Mar/04/2021 22:46 | 
+87 | [A - Kids Seating](https://codeforces.com/contest/1443/problem/A) | [Python 3](./codeforces/1443/A.py) | `constructive algorithms` `math` `*800` | Mar/03/2021 23:57 | 
+86 | [A - The Monster](https://codeforces.com/contest/787/problem/A) | [Python 3](./codeforces/787/A.py) | `brute force` `math` `number theory` `*1200` | Mar/03/2021 22:44 | 
+85 | [B - Berland Crossword](https://codeforces.com/contest/1494/problem/B) | [Python 3](./codeforces/1494/B.py) | `bitmasks` `brute force` `greedy` `implementation` `*1400` | Mar/03/2021 19:25 | 
+84 | [A - ABC String](https://codeforces.com/contest/1494/problem/A) | [Python 3](./codeforces/1494/A.py) | `bitmasks` `brute force` `implementation` `*900` | Mar/03/2021 18:07 | 
+83 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [Python 3](./codeforces/1469/A.py) | `constructive algorithms` `greedy` `*1000` | Mar/03/2021 17:54 | 
+82 | [A - Football](https://codeforces.com/contest/96/problem/A) | [Python 3](./codeforces/96/A.py) | `implementation` `strings` `*900` | Mar/02/2021 23:09 | 
+81 | [A - Elephant](https://codeforces.com/contest/617/problem/A) | [Python 3](./codeforces/617/A.py) | `math` `*800` | Mar/02/2021 23:04 | 
 80 | [C - Two Brackets](https://codeforces.com/contest/1452/problem/C) | [Python 3](./codeforces/1452/C.py) | `greedy` `*800` | Mar/01/2021 20:52 | 
 79 | [A - Santa Claus and Candies](https://codeforces.com/contest/753/problem/A) | [Python 3](./codeforces/753/A.py) | `dp` `greedy` `math` `*1000` | Mar/01/2021 17:53 | 
 78 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [Python 3](./codeforces/1438/B.py) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Mar/01/2021 16:24 | 
