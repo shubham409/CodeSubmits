@@ -1278,6 +1278,23 @@
     ],
     "timestamp": "Mar/01/2021 20:52"
   },
+  "CF108950977": {
+    "contest_id": 96,
+    "language": "Python 3",
+    "path": "codeforces\\96\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Football",
+    "problem_url": "https://codeforces.com/contest/96/problem/A",
+    "submission_id": "CF108950977",
+    "submission_url": "https://codeforces.com/contest/96/submission/108950977",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Mar/02/2021 23:09"
+  },
   "CF109005016": {
     "contest_id": 1469,
     "language": "Python 3",
