@@ -1278,6 +1278,23 @@
     ],
     "timestamp": "Mar/01/2021 20:52"
   },
+  "CF109033451": {
+    "contest_id": 1443,
+    "language": "Python 3",
+    "path": "codeforces\\1443\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kids Seating",
+    "problem_url": "https://codeforces.com/contest/1443/problem/A",
+    "submission_id": "CF109033451",
+    "submission_url": "https://codeforces.com/contest/1443/submission/109033451",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2021 23:57"
+  },
   "CF109100600": {
     "contest_id": 1447,
     "language": "Python 3",
