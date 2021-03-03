@@ -1278,6 +1278,24 @@
     ],
     "timestamp": "Mar/01/2021 20:52"
   },
+  "CF109005998": {
+    "contest_id": 1494,
+    "language": "Python 3",
+    "path": "codeforces\\1494\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ABC String",
+    "problem_url": "https://codeforces.com/contest/1494/problem/A",
+    "submission_id": "CF109005998",
+    "submission_url": "https://codeforces.com/contest/1494/submission/109005998",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/03/2021 18:07"
+  },
   "CF109012066": {
     "contest_id": 1494,
     "language": "Python 3",
