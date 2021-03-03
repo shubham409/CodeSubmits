@@ -1278,6 +1278,25 @@
     ],
     "timestamp": "Mar/01/2021 20:52"
   },
+  "CF109012066": {
+    "contest_id": 1494,
+    "language": "Python 3",
+    "path": "codeforces\\1494\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Berland Crossword",
+    "problem_url": "https://codeforces.com/contest/1494/problem/B",
+    "submission_id": "CF109012066",
+    "submission_url": "https://codeforces.com/contest/1494/submission/109012066",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Mar/03/2021 19:25"
+  },
   "CF109028290": {
     "contest_id": 787,
     "language": "Python 3",
