@@ -1278,6 +1278,22 @@
     ],
     "timestamp": "Mar/01/2021 20:52"
   },
+  "CF109102779": {
+    "contest_id": 266,
+    "language": "Python 3",
+    "path": "codeforces\\266\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stones on the Table",
+    "problem_url": "https://codeforces.com/contest/266/problem/A",
+    "submission_id": "CF109102779",
+    "submission_url": "https://codeforces.com/contest/266/submission/109102779",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/04/2021 23:16"
+  },
   "CF109147421": {
     "contest_id": 1440,
     "language": "Python 3",
