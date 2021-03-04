@@ -1278,6 +1278,23 @@
     ],
     "timestamp": "Mar/01/2021 20:52"
   },
+  "CF109100600": {
+    "contest_id": 1447,
+    "language": "Python 3",
+    "path": "codeforces\\1447\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Add Candies",
+    "problem_url": "https://codeforces.com/contest/1447/problem/A",
+    "submission_id": "CF109100600",
+    "submission_url": "https://codeforces.com/contest/1447/submission/109100600",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/04/2021 22:46"
+  },
   "CF109102144": {
     "contest_id": 1440,
     "language": "Python 3",

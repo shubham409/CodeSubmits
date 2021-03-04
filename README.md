@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-84 | [B - Sum of Medians](https://codeforces.com/contest/1440/problem/B) | [Python 3](./codeforces/1440/B.py) | `greedy` `math` `*900` | Mar/05/2021 17:09 | 
-83 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [Python 3](./codeforces/266/A.py) | `implementation` `*800` | Mar/04/2021 23:16 | 
-82 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [Python 3](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Mar/04/2021 23:11 | 
-81 | [A - Buy the String](https://codeforces.com/contest/1440/problem/A) | [Python 3](./codeforces/1440/A.py) | `implementation` `math` `*800` | Mar/04/2021 23:06 | 
+85 | [B - Sum of Medians](https://codeforces.com/contest/1440/problem/B) | [Python 3](./codeforces/1440/B.py) | `greedy` `math` `*900` | Mar/05/2021 17:09 | 
+84 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [Python 3](./codeforces/266/A.py) | `implementation` `*800` | Mar/04/2021 23:16 | 
+83 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [Python 3](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Mar/04/2021 23:11 | 
+82 | [A - Buy the String](https://codeforces.com/contest/1440/problem/A) | [Python 3](./codeforces/1440/A.py) | `implementation` `math` `*800` | Mar/04/2021 23:06 | 
+81 | [A - Add Candies](https://codeforces.com/contest/1447/problem/A) | [Python 3](./codeforces/1447/A.py) | `constructive algorithms` `math` `*800` | Mar/04/2021 22:46 | 
 80 | [C - Two Brackets](https://codeforces.com/contest/1452/problem/C) | [Python 3](./codeforces/1452/C.py) | `greedy` `*800` | Mar/01/2021 20:52 | 
 79 | [A - Santa Claus and Candies](https://codeforces.com/contest/753/problem/A) | [Python 3](./codeforces/753/A.py) | `dp` `greedy` `math` `*1000` | Mar/01/2021 17:53 | 
 78 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [Python 3](./codeforces/1438/B.py) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Mar/01/2021 16:24 | 
