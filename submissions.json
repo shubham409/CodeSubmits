@@ -1278,6 +1278,25 @@
     ],
     "timestamp": "Mar/01/2021 20:52"
   },
+  "CF109102460": {
+    "contest_id": 339,
+    "language": "Python 3",
+    "path": "codeforces\\339\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Helpful Maths",
+    "problem_url": "https://codeforces.com/contest/339/problem/A",
+    "submission_id": "CF109102460",
+    "submission_url": "https://codeforces.com/contest/339/submission/109102460",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/04/2021 23:11"
+  },
   "CF109102779": {
     "contest_id": 266,
     "language": "Python 3",
