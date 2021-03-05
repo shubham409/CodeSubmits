@@ -1536,6 +1536,24 @@
     ],
     "timestamp": "Mar/05/2021 17:09"
   },
+  "CF109173873": {
+    "contest_id": 1430,
+    "language": "Python 3",
+    "path": "codeforces\\1430\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Barrels",
+    "problem_url": "https://codeforces.com/contest/1430/problem/B",
+    "submission_id": "CF109173873",
+    "submission_url": "https://codeforces.com/contest/1430/submission/109173873",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/05/2021 23:41"
+  },
   "CF83929825": {
     "contest_id": 4,
     "language": "Python 3",
