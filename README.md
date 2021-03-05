@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-98 | [B - Barrels](https://codeforces.com/contest/1430/problem/B) | [Python 3](./codeforces/1430/B.py) | `greedy` `implementation` `sortings` `*800` | Mar/05/2021 23:41 | 
-97 | [A - IQ test](https://codeforces.com/contest/25/problem/A) | [Python 3](./codeforces/25/A.py) | `brute force` `*1300` | Mar/05/2021 23:28 | 
-96 | [B1 - Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | [Python 3](./codeforces/958/B1.py) | `implementation` `*1000` | Mar/05/2021 21:46 | 
-95 | [A - Paper Work](https://codeforces.com/contest/250/problem/A) | [Python 3](./codeforces/250/A.py) | `greedy` `*1000` | Mar/05/2021 20:36 | 
+99 | [B - Barrels](https://codeforces.com/contest/1430/problem/B) | [Python 3](./codeforces/1430/B.py) | `greedy` `implementation` `sortings` `*800` | Mar/05/2021 23:41 | 
+98 | [A - IQ test](https://codeforces.com/contest/25/problem/A) | [Python 3](./codeforces/25/A.py) | `brute force` `*1300` | Mar/05/2021 23:28 | 
+97 | [B1 - Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | [Python 3](./codeforces/958/B1.py) | `implementation` `*1000` | Mar/05/2021 21:46 | 
+96 | [A - Paper Work](https://codeforces.com/contest/250/problem/A) | [Python 3](./codeforces/250/A.py) | `greedy` `*1000` | Mar/05/2021 20:36 | 
+95 | [A - Cancel the Trains](https://codeforces.com/contest/1453/problem/A) | [Python 3](./codeforces/1453/A.py) | `implementation` `*800` | Mar/05/2021 17:29 | 
 94 | [B - Sum of Medians](https://codeforces.com/contest/1440/problem/B) | [Python 3](./codeforces/1440/B.py) | `greedy` `math` `*900` | Mar/05/2021 17:09 | 
 93 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [Python 3](./codeforces/266/A.py) | `implementation` `*800` | Mar/04/2021 23:16 | 
 92 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [Python 3](./codeforces/339/A.py) | `greedy` `implementation` `sortings` `strings` `*800` | Mar/04/2021 23:11 | 
