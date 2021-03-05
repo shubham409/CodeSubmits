@@ -1536,6 +1536,22 @@
     ],
     "timestamp": "Mar/05/2021 17:09"
   },
+  "CF109166807": {
+    "contest_id": 958,
+    "language": "Python 3",
+    "path": "codeforces\\958\\B1.py",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Maximum Control (easy)",
+    "problem_url": "https://codeforces.com/contest/958/problem/B1",
+    "submission_id": "CF109166807",
+    "submission_url": "https://codeforces.com/contest/958/submission/109166807",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Mar/05/2021 21:46"
+  },
   "CF109173178": {
     "contest_id": 25,
     "language": "Python 3",
