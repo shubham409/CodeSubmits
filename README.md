@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-103 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [Python 3](./codeforces/1351/B.py) | `brute force` `implementation` `math` `*900` | Mar/06/2021 23:53 | 
-102 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [Python 3](./codeforces/546/A.py) | `brute force` `implementation` `math` `*800` | Mar/06/2021 23:26 | 
-101 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Python 3](./codeforces/236/A.py) | `brute force` `implementation` `strings` `*800` | Mar/06/2021 23:21 | 
-100 | [A - Anti-knapsack](https://codeforces.com/contest/1493/problem/A) | [Python 3](./codeforces/1493/A.py) | `constructive algorithms` | Mar/06/2021 23:11 | 
+104 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [Python 3](./codeforces/1351/B.py) | `brute force` `implementation` `math` `*900` | Mar/06/2021 23:53 | 
+103 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [Python 3](./codeforces/546/A.py) | `brute force` `implementation` `math` `*800` | Mar/06/2021 23:26 | 
+102 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Python 3](./codeforces/236/A.py) | `brute force` `implementation` `strings` `*800` | Mar/06/2021 23:21 | 
+101 | [A - Anti-knapsack](https://codeforces.com/contest/1493/problem/A) | [Python 3](./codeforces/1493/A.py) | `constructive algorithms` | Mar/06/2021 23:11 | 
+100 | [B - Simple XML](https://codeforces.com/contest/125/problem/B) | [Python 3](./codeforces/125/B.py) | `implementation` `*1000` | Mar/06/2021 17:57 | 
 99 | [B - Barrels](https://codeforces.com/contest/1430/problem/B) | [Python 3](./codeforces/1430/B.py) | `greedy` `implementation` `sortings` `*800` | Mar/05/2021 23:41 | 
 98 | [A - IQ test](https://codeforces.com/contest/25/problem/A) | [Python 3](./codeforces/25/A.py) | `brute force` `*1300` | Mar/05/2021 23:28 | 
 97 | [B1 - Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | [Python 3](./codeforces/958/B1.py) | `implementation` `*1000` | Mar/05/2021 21:46 | 
