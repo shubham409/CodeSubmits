@@ -1618,6 +1618,21 @@
     ],
     "timestamp": "Mar/05/2021 23:41"
   },
+  "CF109283816": {
+    "contest_id": 1493,
+    "language": "Python 3",
+    "path": "codeforces\\1493\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anti-knapsack",
+    "problem_url": "https://codeforces.com/contest/1493/problem/A",
+    "submission_id": "CF109283816",
+    "submission_url": "https://codeforces.com/contest/1493/submission/109283816",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Mar/06/2021 23:11"
+  },
   "CF109284487": {
     "contest_id": 236,
     "language": "Python 3",
