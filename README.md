@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-100 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [Python 3](./codeforces/1351/B.py) | `brute force` `implementation` `math` `*900` | Mar/06/2021 23:53 | 
+101 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [Python 3](./codeforces/1351/B.py) | `brute force` `implementation` `math` `*900` | Mar/06/2021 23:53 | 
+100 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [Python 3](./codeforces/546/A.py) | `brute force` `implementation` `math` `*800` | Mar/06/2021 23:26 | 
 99 | [B - Barrels](https://codeforces.com/contest/1430/problem/B) | [Python 3](./codeforces/1430/B.py) | `greedy` `implementation` `sortings` `*800` | Mar/05/2021 23:41 | 
 98 | [A - IQ test](https://codeforces.com/contest/25/problem/A) | [Python 3](./codeforces/25/A.py) | `brute force` `*1300` | Mar/05/2021 23:28 | 
 97 | [B1 - Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | [Python 3](./codeforces/958/B1.py) | `implementation` `*1000` | Mar/05/2021 21:46 | 
