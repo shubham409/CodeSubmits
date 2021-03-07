@@ -1703,6 +1703,22 @@
     ],
     "timestamp": "Mar/06/2021 23:53"
   },
+  "CF109354580": {
+    "contest_id": 977,
+    "language": "Python 3",
+    "path": "codeforces\\977\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wrong Subtraction",
+    "problem_url": "https://codeforces.com/contest/977/problem/A",
+    "submission_id": "CF109354580",
+    "submission_url": "https://codeforces.com/contest/977/submission/109354580",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2021 23:21"
+  },
   "CF109355398": {
     "contest_id": 110,
     "language": "Python 3",
