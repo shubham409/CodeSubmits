@@ -1703,6 +1703,22 @@
     ],
     "timestamp": "Mar/06/2021 23:53"
   },
+  "CF109354078": {
+    "contest_id": 271,
+    "language": "Python 3",
+    "path": "codeforces\\271\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Year",
+    "problem_url": "https://codeforces.com/contest/271/problem/A",
+    "submission_id": "CF109354078",
+    "submission_url": "https://codeforces.com/contest/271/submission/109354078",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2021 23:12"
+  },
   "CF109354300": {
     "contest_id": 791,
     "language": "Python 3",

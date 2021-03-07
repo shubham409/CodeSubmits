@@ -13,19 +13,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-117 | [A - Subset Mex](https://codeforces.com/contest/1406/problem/A) | [Python 3](./codeforces/1406/A.py) | `greedy` `implementation` `math` `*900` | Mar/09/2021 23:59 | 
-116 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [Python 3](./codeforces/1398/A.py) | `geometry` `math` `*800` | Mar/09/2021 23:16 | 
-115 | [A - Remove Smallest](https://codeforces.com/contest/1399/problem/A) | [Python 3](./codeforces/1399/A.py) | `greedy` `sortings` `*800` | Mar/09/2021 22:57 | 
-114 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Python 3](./codeforces/1411/A.py) | `implementation` `*800` | Mar/09/2021 22:41 | 
-113 | [A - Twins](https://codeforces.com/contest/160/problem/A) | [Python 3](./codeforces/160/A.py) | `greedy` `sortings` `*900` | Mar/08/2021 23:58 | 
-112 | [A - Cut Ribbon](https://codeforces.com/contest/189/problem/A) | [Python 3](./codeforces/189/A.py) | `brute force` `dp` `*1300` | Mar/08/2021 23:56 | 
-111 | [A - Chat room](https://codeforces.com/contest/58/problem/A) | [Python 3](./codeforces/58/A.py) | `greedy` `strings` `*1000` | Mar/08/2021 23:55 | 
-110 | [A - Tram](https://codeforces.com/contest/116/problem/A) | [Python 3](./codeforces/116/A.py) | `implementation` `*800` | Mar/08/2021 23:54 | 
-109 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [Python 3](./codeforces/734/A.py) | `implementation` `strings` `*800` | Mar/08/2021 23:34 | 
-108 | [A - Repeating Cipher](https://codeforces.com/contest/1095/problem/A) | [Python 3](./codeforces/1095/A.py) | `implementation` `*800` | Mar/07/2021 23:46 | 
-107 | [A - Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | [Python 3](./codeforces/110/A.py) | `implementation` `*800` | Mar/07/2021 23:38 | 
-106 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [Python 3](./codeforces/977/A.py) | `implementation` `*800` | Mar/07/2021 23:21 | 
-105 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [Python 3](./codeforces/791/A.py) | `implementation` `*800` | Mar/07/2021 23:16 | 
+118 | [A - Subset Mex](https://codeforces.com/contest/1406/problem/A) | [Python 3](./codeforces/1406/A.py) | `greedy` `implementation` `math` `*900` | Mar/09/2021 23:59 | 
+117 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [Python 3](./codeforces/1398/A.py) | `geometry` `math` `*800` | Mar/09/2021 23:16 | 
+116 | [A - Remove Smallest](https://codeforces.com/contest/1399/problem/A) | [Python 3](./codeforces/1399/A.py) | `greedy` `sortings` `*800` | Mar/09/2021 22:57 | 
+115 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Python 3](./codeforces/1411/A.py) | `implementation` `*800` | Mar/09/2021 22:41 | 
+114 | [A - Twins](https://codeforces.com/contest/160/problem/A) | [Python 3](./codeforces/160/A.py) | `greedy` `sortings` `*900` | Mar/08/2021 23:58 | 
+113 | [A - Cut Ribbon](https://codeforces.com/contest/189/problem/A) | [Python 3](./codeforces/189/A.py) | `brute force` `dp` `*1300` | Mar/08/2021 23:56 | 
+112 | [A - Chat room](https://codeforces.com/contest/58/problem/A) | [Python 3](./codeforces/58/A.py) | `greedy` `strings` `*1000` | Mar/08/2021 23:55 | 
+111 | [A - Tram](https://codeforces.com/contest/116/problem/A) | [Python 3](./codeforces/116/A.py) | `implementation` `*800` | Mar/08/2021 23:54 | 
+110 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [Python 3](./codeforces/734/A.py) | `implementation` `strings` `*800` | Mar/08/2021 23:34 | 
+109 | [A - Repeating Cipher](https://codeforces.com/contest/1095/problem/A) | [Python 3](./codeforces/1095/A.py) | `implementation` `*800` | Mar/07/2021 23:46 | 
+108 | [A - Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | [Python 3](./codeforces/110/A.py) | `implementation` `*800` | Mar/07/2021 23:38 | 
+107 | [A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [Python 3](./codeforces/977/A.py) | `implementation` `*800` | Mar/07/2021 23:21 | 
+106 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [Python 3](./codeforces/791/A.py) | `implementation` `*800` | Mar/07/2021 23:16 | 
+105 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [Python 3](./codeforces/271/A.py) | `brute force` `*800` | Mar/07/2021 23:12 | 
 104 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [Python 3](./codeforces/1351/B.py) | `brute force` `implementation` `math` `*900` | Mar/06/2021 23:53 | 
 103 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [Python 3](./codeforces/546/A.py) | `brute force` `implementation` `math` `*800` | Mar/06/2021 23:26 | 
 102 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Python 3](./codeforces/236/A.py) | `brute force` `implementation` `strings` `*800` | Mar/06/2021 23:21 | 
