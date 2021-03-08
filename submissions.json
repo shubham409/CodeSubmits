@@ -1703,6 +1703,23 @@
     ],
     "timestamp": "Mar/06/2021 23:53"
   },
+  "CF109420906": {
+    "contest_id": 58,
+    "language": "Python 3",
+    "path": "codeforces\\58\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chat room",
+    "problem_url": "https://codeforces.com/contest/58/problem/A",
+    "submission_id": "CF109420906",
+    "submission_url": "https://codeforces.com/contest/58/submission/109420906",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Mar/08/2021 23:55"
+  },
   "CF109420979": {
     "contest_id": 189,
     "language": "Python 3",
