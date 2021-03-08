@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-109 | [A - Subset Mex](https://codeforces.com/contest/1406/problem/A) | [Python 3](./codeforces/1406/A.py) | `greedy` `implementation` `math` `*900` | Mar/09/2021 23:59 | 
-108 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [Python 3](./codeforces/1398/A.py) | `geometry` `math` `*800` | Mar/09/2021 23:16 | 
-107 | [A - Remove Smallest](https://codeforces.com/contest/1399/problem/A) | [Python 3](./codeforces/1399/A.py) | `greedy` `sortings` `*800` | Mar/09/2021 22:57 | 
-106 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Python 3](./codeforces/1411/A.py) | `implementation` `*800` | Mar/09/2021 22:41 | 
-105 | [A - Twins](https://codeforces.com/contest/160/problem/A) | [Python 3](./codeforces/160/A.py) | `greedy` `sortings` `*900` | Mar/08/2021 23:58 | 
+110 | [A - Subset Mex](https://codeforces.com/contest/1406/problem/A) | [Python 3](./codeforces/1406/A.py) | `greedy` `implementation` `math` `*900` | Mar/09/2021 23:59 | 
+109 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [Python 3](./codeforces/1398/A.py) | `geometry` `math` `*800` | Mar/09/2021 23:16 | 
+108 | [A - Remove Smallest](https://codeforces.com/contest/1399/problem/A) | [Python 3](./codeforces/1399/A.py) | `greedy` `sortings` `*800` | Mar/09/2021 22:57 | 
+107 | [A - In-game Chat](https://codeforces.com/contest/1411/problem/A) | [Python 3](./codeforces/1411/A.py) | `implementation` `*800` | Mar/09/2021 22:41 | 
+106 | [A - Twins](https://codeforces.com/contest/160/problem/A) | [Python 3](./codeforces/160/A.py) | `greedy` `sortings` `*900` | Mar/08/2021 23:58 | 
+105 | [A - Cut Ribbon](https://codeforces.com/contest/189/problem/A) | [Python 3](./codeforces/189/A.py) | `brute force` `dp` `*1300` | Mar/08/2021 23:56 | 
 104 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [Python 3](./codeforces/1351/B.py) | `brute force` `implementation` `math` `*900` | Mar/06/2021 23:53 | 
 103 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [Python 3](./codeforces/546/A.py) | `brute force` `implementation` `math` `*800` | Mar/06/2021 23:26 | 
 102 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Python 3](./codeforces/236/A.py) | `brute force` `implementation` `strings` `*800` | Mar/06/2021 23:21 | 
