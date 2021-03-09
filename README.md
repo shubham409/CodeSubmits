@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-105 | [A - Subset Mex](https://codeforces.com/contest/1406/problem/A) | [Python 3](./codeforces/1406/A.py) | `greedy` `implementation` `math` `*900` | Mar/09/2021 23:59 | 
+106 | [A - Subset Mex](https://codeforces.com/contest/1406/problem/A) | [Python 3](./codeforces/1406/A.py) | `greedy` `implementation` `math` `*900` | Mar/09/2021 23:59 | 
+105 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [Python 3](./codeforces/1398/A.py) | `geometry` `math` `*800` | Mar/09/2021 23:16 | 
 104 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [Python 3](./codeforces/1351/B.py) | `brute force` `implementation` `math` `*900` | Mar/06/2021 23:53 | 
 103 | [A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [Python 3](./codeforces/546/A.py) | `brute force` `implementation` `math` `*800` | Mar/06/2021 23:26 | 
 102 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Python 3](./codeforces/236/A.py) | `brute force` `implementation` `strings` `*800` | Mar/06/2021 23:21 | 
