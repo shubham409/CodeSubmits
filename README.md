@@ -13,22 +13,23 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-134 | [C - Going Home](https://codeforces.com/contest/1501/problem/C) | [Python 3](./codeforces/1501/C.py) | `brute force` `implementation` `math` `*1800` | Mar/14/2021 16:29 | 
-133 | [D1 - Sage's Birthday (easy version)](https://codeforces.com/contest/1419/problem/D1) | [Python 3](./codeforces/1419/D1.py) | `binary search` `constructive algorithms` `greedy` `sortings` `*1000` | Mar/13/2021 23:39 | 
-132 | [B - Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | [Python 3](./codeforces/1501/B.py) | `dp` `implementation` `sortings` `*900` | Mar/13/2021 23:14 | 
-131 | [A - Alexey and Train](https://codeforces.com/contest/1501/problem/A) | [Python 3](./codeforces/1501/A.py) | `implementation` `*800` | Mar/13/2021 23:13 | 
-130 | [A - HQ9+](https://codeforces.com/contest/133/problem/A) | [Python 3](./codeforces/133/A.py) | `implementation` `*900` | Mar/13/2021 22:51 | 
-129 | [A - Array Rearrangment](https://codeforces.com/contest/1445/problem/A) | [Python 3](./codeforces/1445/A.py) | `greedy` `sortings` `*800` | Mar/12/2021 22:58 | 
-128 | [B - Card Deck](https://codeforces.com/contest/1492/problem/B) | [Python 3](./codeforces/1492/B.py) | `data structures` `greedy` `math` `*1100` | Mar/12/2021 21:29 | 
-127 | [B - Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | [Python 3](./codeforces/1486/B.py) | `binary search` `geometry` `shortest paths` `sortings` `*1500` | Mar/12/2021 19:43 | 
-126 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [Python 3](./codeforces/1476/B.py) | `binary search` `brute force` `greedy` `math` `*1300` | Mar/12/2021 17:28 | 
-125 | [A - Boring Apartments](https://codeforces.com/contest/1433/problem/A) | [Python 3](./codeforces/1433/A.py) | `implementation` `math` `*800` | Mar/11/2021 23:17 | 
-124 | [C - Diamond Miner](https://codeforces.com/contest/1496/problem/C) | [Python 3](./codeforces/1496/C.py) | `geometry` `greedy` `sortings` `*1200` | Mar/11/2021 16:50 | 
-123 | [B - Max and Mex](https://codeforces.com/contest/1496/problem/B) | [Python 3](./codeforces/1496/B.py) | `implementation` `math` `*1100` | Mar/11/2021 15:23 | 
-122 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [Python 3](./codeforces/1496/A.py) | `brute force` `constructive algorithms` `greedy` `strings` `*900` | Mar/11/2021 14:24 | 
-121 | [A - George and Accommodation](https://codeforces.com/contest/467/problem/A) | [Python 3](./codeforces/467/A.py) | `implementation` `*800` | Mar/10/2021 23:33 | 
-120 | [A - Even Subset Sum Problem](https://codeforces.com/contest/1323/problem/A) | [Python 3](./codeforces/1323/A.py) | `brute force` `dp` `greedy` `implementation` `*800` | Mar/10/2021 23:22 | 
-119 | [B - Make Product Equal One](https://codeforces.com/contest/1206/problem/B) | [Python 3](./codeforces/1206/B.py) | `dp` `implementation` `*900` | Mar/10/2021 23:13 | 
+135 | [C - Going Home](https://codeforces.com/contest/1501/problem/C) | [Python 3](./codeforces/1501/C.py) | `brute force` `implementation` `math` `*1800` | Mar/14/2021 16:29 | 
+134 | [D1 - Sage's Birthday (easy version)](https://codeforces.com/contest/1419/problem/D1) | [Python 3](./codeforces/1419/D1.py) | `binary search` `constructive algorithms` `greedy` `sortings` `*1000` | Mar/13/2021 23:39 | 
+133 | [B - Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | [Python 3](./codeforces/1501/B.py) | `dp` `implementation` `sortings` `*900` | Mar/13/2021 23:14 | 
+132 | [A - Alexey and Train](https://codeforces.com/contest/1501/problem/A) | [Python 3](./codeforces/1501/A.py) | `implementation` `*800` | Mar/13/2021 23:13 | 
+131 | [A - HQ9+](https://codeforces.com/contest/133/problem/A) | [Python 3](./codeforces/133/A.py) | `implementation` `*900` | Mar/13/2021 22:51 | 
+130 | [A - Array Rearrangment](https://codeforces.com/contest/1445/problem/A) | [Python 3](./codeforces/1445/A.py) | `greedy` `sortings` `*800` | Mar/12/2021 22:58 | 
+129 | [B - Card Deck](https://codeforces.com/contest/1492/problem/B) | [Python 3](./codeforces/1492/B.py) | `data structures` `greedy` `math` `*1100` | Mar/12/2021 21:29 | 
+128 | [B - Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | [Python 3](./codeforces/1486/B.py) | `binary search` `geometry` `shortest paths` `sortings` `*1500` | Mar/12/2021 19:43 | 
+127 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [Python 3](./codeforces/1476/B.py) | `binary search` `brute force` `greedy` `math` `*1300` | Mar/12/2021 17:28 | 
+126 | [A - Boring Apartments](https://codeforces.com/contest/1433/problem/A) | [Python 3](./codeforces/1433/A.py) | `implementation` `math` `*800` | Mar/11/2021 23:17 | 
+125 | [C - Diamond Miner](https://codeforces.com/contest/1496/problem/C) | [Python 3](./codeforces/1496/C.py) | `geometry` `greedy` `sortings` `*1200` | Mar/11/2021 16:50 | 
+124 | [B - Max and Mex](https://codeforces.com/contest/1496/problem/B) | [Python 3](./codeforces/1496/B.py) | `implementation` `math` `*1100` | Mar/11/2021 15:23 | 
+123 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [Python 3](./codeforces/1496/A.py) | `brute force` `constructive algorithms` `greedy` `strings` `*900` | Mar/11/2021 14:24 | 
+122 | [A - George and Accommodation](https://codeforces.com/contest/467/problem/A) | [Python 3](./codeforces/467/A.py) | `implementation` `*800` | Mar/10/2021 23:33 | 
+121 | [A - Even Subset Sum Problem](https://codeforces.com/contest/1323/problem/A) | [Python 3](./codeforces/1323/A.py) | `brute force` `dp` `greedy` `implementation` `*800` | Mar/10/2021 23:22 | 
+120 | [B - Make Product Equal One](https://codeforces.com/contest/1206/problem/B) | [Python 3](./codeforces/1206/B.py) | `dp` `implementation` `*900` | Mar/10/2021 23:13 | 
+119 | [A - Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | [Python 3](./codeforces/580/A.py) | `brute force` `dp` `implementation` `*900` | Mar/10/2021 22:34 | 
 118 | [A - Subset Mex](https://codeforces.com/contest/1406/problem/A) | [Python 3](./codeforces/1406/A.py) | `greedy` `implementation` `math` `*900` | Mar/09/2021 23:59 | 
 117 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [Python 3](./codeforces/1398/A.py) | `geometry` `math` `*800` | Mar/09/2021 23:16 | 
 116 | [A - Remove Smallest](https://codeforces.com/contest/1399/problem/A) | [Python 3](./codeforces/1399/A.py) | `greedy` `sortings` `*800` | Mar/09/2021 22:57 | 
