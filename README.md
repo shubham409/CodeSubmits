@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-142 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [Python 3](./codeforces/1030/A.py) | `implementation` `*800` | Mar/15/2021 23:20 | 
-141 | [A - Presents](https://codeforces.com/contest/136/problem/A) | [Python 3](./codeforces/136/A.py) | `implementation` `*800` | Mar/15/2021 23:16 | 
-140 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Python 3](./codeforces/677/A.py) | `implementation` `*800` | Mar/15/2021 23:04 | 
-139 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [Python 3](./codeforces/266/B.py) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Mar/15/2021 23:00 | 
-138 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [Python 3](./codeforces/486/A.py) | `implementation` `math` `*800` | Mar/14/2021 23:56 | 
-137 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [Python 3](./codeforces/705/A.py) | `implementation` `*800` | Mar/14/2021 23:49 | 
-136 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [Python 3](./codeforces/41/A.py) | `implementation` `strings` `*800` | Mar/14/2021 23:28 | 
+143 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [Python 3](./codeforces/1030/A.py) | `implementation` `*800` | Mar/15/2021 23:20 | 
+142 | [A - Presents](https://codeforces.com/contest/136/problem/A) | [Python 3](./codeforces/136/A.py) | `implementation` `*800` | Mar/15/2021 23:16 | 
+141 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Python 3](./codeforces/677/A.py) | `implementation` `*800` | Mar/15/2021 23:04 | 
+140 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [Python 3](./codeforces/266/B.py) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Mar/15/2021 23:00 | 
+139 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [Python 3](./codeforces/486/A.py) | `implementation` `math` `*800` | Mar/14/2021 23:56 | 
+138 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [Python 3](./codeforces/705/A.py) | `implementation` `*800` | Mar/14/2021 23:49 | 
+137 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [Python 3](./codeforces/41/A.py) | `implementation` `strings` `*800` | Mar/14/2021 23:28 | 
+136 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [Python 3](./codeforces/122/A.py) | `brute force` `number theory` `*1000` | Mar/14/2021 23:25 | 
 135 | [C - Going Home](https://codeforces.com/contest/1501/problem/C) | [Python 3](./codeforces/1501/C.py) | `brute force` `implementation` `math` `*1800` | Mar/14/2021 16:29 | 
 134 | [D1 - Sage's Birthday (easy version)](https://codeforces.com/contest/1419/problem/D1) | [Python 3](./codeforces/1419/D1.py) | `binary search` `constructive algorithms` `greedy` `sortings` `*1000` | Mar/13/2021 23:39 | 
 133 | [B - Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | [Python 3](./codeforces/1501/B.py) | `dp` `implementation` `sortings` `*900` | Mar/13/2021 23:14 | 
