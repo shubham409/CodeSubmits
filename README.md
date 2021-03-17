@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-146 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Python 3](./codeforces/1499/B.py) | `brute force` `dp` `greedy` `implementation` | Mar/18/2021 23:48 | 
-145 | [A - Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) | [Python 3](./codeforces/1499/A.py) | `combinatorics` `constructive algorithms` `math` | Mar/18/2021 22:49 | 
-144 | [C2 - k-LCM (hard version)](https://codeforces.com/contest/1497/problem/C2) | [Python 3](./codeforces/1497/C2.py) | `constructive algorithms` `math` `*1600` | Mar/18/2021 02:22 | 
+147 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Python 3](./codeforces/1499/B.py) | `brute force` `dp` `greedy` `implementation` | Mar/18/2021 23:48 | 
+146 | [A - Domino on Windowsill](https://codeforces.com/contest/1499/problem/A) | [Python 3](./codeforces/1499/A.py) | `combinatorics` `constructive algorithms` `math` | Mar/18/2021 22:49 | 
+145 | [C2 - k-LCM (hard version)](https://codeforces.com/contest/1497/problem/C2) | [Python 3](./codeforces/1497/C2.py) | `constructive algorithms` `math` `*1600` | Mar/18/2021 02:22 | 
+144 | [B - M-arrays](https://codeforces.com/contest/1497/problem/B) | [Python 3](./codeforces/1497/B.py) | `constructive algorithms` `greedy` `math` `*1200` | Mar/18/2021 00:58 | 
 143 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [Python 3](./codeforces/1030/A.py) | `implementation` `*800` | Mar/15/2021 23:20 | 
 142 | [A - Presents](https://codeforces.com/contest/136/problem/A) | [Python 3](./codeforces/136/A.py) | `implementation` `*800` | Mar/15/2021 23:16 | 
 141 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Python 3](./codeforces/677/A.py) | `implementation` `*800` | Mar/15/2021 23:04 | 
