@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+144 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [Python 3](./codeforces/1499/B.py) | `brute force` `dp` `greedy` `implementation` | Mar/18/2021 23:48 | 
 143 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [Python 3](./codeforces/1030/A.py) | `implementation` `*800` | Mar/15/2021 23:20 | 
 142 | [A - Presents](https://codeforces.com/contest/136/problem/A) | [Python 3](./codeforces/136/A.py) | `implementation` `*800` | Mar/15/2021 23:16 | 
 141 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Python 3](./codeforces/677/A.py) | `implementation` `*800` | Mar/15/2021 23:04 | 
