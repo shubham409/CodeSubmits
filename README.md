@@ -13,26 +13,27 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-179 | [C - Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | [Java 11](./codeforces/1506/C.java) | `brute force` `dp` `hashing` `strings` `*1000` | Mar/28/2021 01:54 | 
-178 | [A - Magical Sticks](https://codeforces.com/contest/1371/problem/A) | [Python 3](./codeforces/1371/A.py) | `math` `*800` | Mar/27/2021 23:53 | 
-177 | [B - Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | [Python 3](./codeforces/1374/B.py) | `math` `*900` | Mar/27/2021 00:40 | 
-176 | [A - Bachgold Problem](https://codeforces.com/contest/749/problem/A) | [Python 3](./codeforces/749/A.py) | `greedy` `implementation` `math` `number theory` `*800` | Mar/27/2021 00:22 | 
-175 | [A - Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | [Python 3](./codeforces/1348/A.py) | `greedy` `math` `*800` | Mar/27/2021 00:12 | 
-174 | [A - New Year Candles](https://codeforces.com/contest/379/problem/A) | [Python 3](./codeforces/379/A.py) | `implementation` `*1000` | Mar/26/2021 23:44 | 
-173 | [B - Partial Replacement](https://codeforces.com/contest/1506/problem/B) | [Python 3](./codeforces/1506/B.py) | `greedy` `implementation` `*1100` | Mar/26/2021 23:19 | 
-172 | [A - Vasya and Socks](https://codeforces.com/contest/460/problem/A) | [Python 3](./codeforces/460/A.py) | `brute force` `implementation` `math` `*900` | Mar/25/2021 23:55 | 
-171 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [Python 3](./codeforces/339/B.py) | `implementation` `*1000` | Mar/25/2021 23:45 | 
-170 | [A - Strange Table](https://codeforces.com/contest/1506/problem/A) | [Python 3](./codeforces/1506/A.py) | `math` `*800` | Mar/25/2021 23:22 | 
-169 | [A - Choosing Teams](https://codeforces.com/contest/432/problem/A) | [Python 3](./codeforces/432/A.py) | `greedy` `implementation` `sortings` `*800` | Mar/24/2021 23:58 | 
-168 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [Python 3](./codeforces/427/A.py) | `implementation` `*800` | Mar/24/2021 23:43 | 
-167 | [A - Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | [Python 3](./codeforces/1154/A.py) | `math` `*800` | Mar/24/2021 23:20 | 
-166 | [B - Drinks](https://codeforces.com/contest/200/problem/B) | [Python 3](./codeforces/200/B.py) | `implementation` `math` `*800` | Mar/24/2021 23:15 | 
-165 | [A - New Year and Hurry](https://codeforces.com/contest/750/problem/A) | [Python 3](./codeforces/750/A.py) | `binary search` `brute force` `implementation` `math` `*800` | Mar/24/2021 00:03 | 
-164 | [A - Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | [Python 3](./codeforces/581/A.py) | `implementation` `math` `*800` | Mar/23/2021 23:53 | 
-163 | [A - Arrival of the General](https://codeforces.com/contest/144/problem/A) | [Python 3](./codeforces/144/A.py) | `implementation` `*800` | Mar/23/2021 23:42 | 
-162 | [A - Game With Sticks](https://codeforces.com/contest/451/problem/A) | [Python 3](./codeforces/451/A.py) | `implementation` `*900` | Mar/23/2021 01:06 | 
-161 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [Java 11](./codeforces/230/A.java) | `greedy` `sortings` `*1000` | Mar/23/2021 00:52 | 
-160 | [A - Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | [Java 11](./codeforces/1335/A.java) | `math` `*800` | Mar/22/2021 23:34 | 
+180 | [C - Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | [Java 11](./codeforces/1506/C.java) | `brute force` `dp` `hashing` `strings` `*1000` | Mar/28/2021 01:54 | 
+179 | [A - Magical Sticks](https://codeforces.com/contest/1371/problem/A) | [Python 3](./codeforces/1371/A.py) | `math` `*800` | Mar/27/2021 23:53 | 
+178 | [B - Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | [Python 3](./codeforces/1374/B.py) | `math` `*900` | Mar/27/2021 00:40 | 
+177 | [A - Bachgold Problem](https://codeforces.com/contest/749/problem/A) | [Python 3](./codeforces/749/A.py) | `greedy` `implementation` `math` `number theory` `*800` | Mar/27/2021 00:22 | 
+176 | [A - Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | [Python 3](./codeforces/1348/A.py) | `greedy` `math` `*800` | Mar/27/2021 00:12 | 
+175 | [A - New Year Candles](https://codeforces.com/contest/379/problem/A) | [Python 3](./codeforces/379/A.py) | `implementation` `*1000` | Mar/26/2021 23:44 | 
+174 | [B - Partial Replacement](https://codeforces.com/contest/1506/problem/B) | [Python 3](./codeforces/1506/B.py) | `greedy` `implementation` `*1100` | Mar/26/2021 23:19 | 
+173 | [A - Vasya and Socks](https://codeforces.com/contest/460/problem/A) | [Python 3](./codeforces/460/A.py) | `brute force` `implementation` `math` `*900` | Mar/25/2021 23:55 | 
+172 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [Python 3](./codeforces/339/B.py) | `implementation` `*1000` | Mar/25/2021 23:45 | 
+171 | [A - Strange Table](https://codeforces.com/contest/1506/problem/A) | [Python 3](./codeforces/1506/A.py) | `math` `*800` | Mar/25/2021 23:22 | 
+170 | [A - Choosing Teams](https://codeforces.com/contest/432/problem/A) | [Python 3](./codeforces/432/A.py) | `greedy` `implementation` `sortings` `*800` | Mar/24/2021 23:58 | 
+169 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [Python 3](./codeforces/427/A.py) | `implementation` `*800` | Mar/24/2021 23:43 | 
+168 | [A - Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | [Python 3](./codeforces/1154/A.py) | `math` `*800` | Mar/24/2021 23:20 | 
+167 | [B - Drinks](https://codeforces.com/contest/200/problem/B) | [Python 3](./codeforces/200/B.py) | `implementation` `math` `*800` | Mar/24/2021 23:15 | 
+166 | [A - New Year and Hurry](https://codeforces.com/contest/750/problem/A) | [Python 3](./codeforces/750/A.py) | `binary search` `brute force` `implementation` `math` `*800` | Mar/24/2021 00:03 | 
+165 | [A - Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | [Python 3](./codeforces/581/A.py) | `implementation` `math` `*800` | Mar/23/2021 23:53 | 
+164 | [A - Arrival of the General](https://codeforces.com/contest/144/problem/A) | [Python 3](./codeforces/144/A.py) | `implementation` `*800` | Mar/23/2021 23:42 | 
+163 | [A - Game With Sticks](https://codeforces.com/contest/451/problem/A) | [Python 3](./codeforces/451/A.py) | `implementation` `*900` | Mar/23/2021 01:06 | 
+162 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [Java 11](./codeforces/230/A.java) | `greedy` `sortings` `*1000` | Mar/23/2021 00:52 | 
+161 | [A - Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | [Java 11](./codeforces/1335/A.java) | `math` `*800` | Mar/22/2021 23:34 | 
+160 | [A - Games](https://codeforces.com/contest/268/problem/A) | [Java 11](./codeforces/268/A.java) | `brute force` `*800` | Mar/22/2021 23:20 | 
 159 | [A - Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | [GNU C++17](./codeforces/1328/A.cpp) | `math` `*800` | Mar/20/2021 23:57 | 
 158 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [GNU C++17](./codeforces/405/A.cpp) | `greedy` `implementation` `sortings` `*900` | Mar/20/2021 23:29 | 
 157 | [A - Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | [GNU C++17](./codeforces/61/A.cpp) | `implementation` `*800` | Mar/20/2021 21:39 | 
