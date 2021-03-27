@@ -2708,6 +2708,25 @@
     ],
     "timestamp": "Mar/20/2021 23:57"
   },
+  "CF111239456": {
+    "contest_id": 1506,
+    "language": "Java 11",
+    "path": "codeforces\\1506\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Double-ended Strings",
+    "problem_url": "https://codeforces.com/contest/1506/problem/C",
+    "submission_id": "CF111239456",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111239456",
+    "tags": [
+      "brute force",
+      "dp",
+      "hashing",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Mar/28/2021 01:54"
+  },
   "CF83929825": {
     "contest_id": 4,
     "language": "Python 3",
