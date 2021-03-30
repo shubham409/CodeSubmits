@@ -13,18 +13,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-195 | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | [Python 3](./codeforces/1296/A.py) | `math` `*800` | Apr/03/2021 23:52 | 
-194 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [Python 3](./codeforces/1504/A.py) | `constructive algorithms` | Apr/03/2021 23:24 | 
-193 | [A - Floor Number](https://codeforces.com/contest/1426/problem/A) | [Python 3](./codeforces/1426/A.py) | `implementation` `math` `*800` | Apr/03/2021 23:10 | 
-192 | [C - Registration System](https://codeforces.com/contest/4/problem/C) | [Python 3](./codeforces/4/C.py) | `data structures` `hashing` `implementation` `*1300` | Apr/02/2021 23:51 | 
-191 | [B - Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | [Python 3](./codeforces/492/B.py) | `binary search` `implementation` `math` `sortings` `*1200` | Apr/02/2021 23:49 | 
-190 | [B - Taxi](https://codeforces.com/contest/158/problem/B) | [Python 3](./codeforces/158/B.py) | `*special problem` `greedy` `implementation` `*1100` | Apr/02/2021 23:46 | 
-189 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [Python 3](./codeforces/1505/C.py) | `constructive algorithms` `implementation` | Apr/01/2021 23:51 | 
-188 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [Python 3](./codeforces/1505/B.py) | `constructive algorithms` `implementation` `number theory` | Apr/01/2021 23:29 | 
-187 | [A - Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | [Python 3](./codeforces/1505/A.py) | `implementation` `interactive` | Apr/01/2021 23:14 | 
-186 | [A - Box is Pull](https://codeforces.com/contest/1428/problem/A) | [Python 3](./codeforces/1428/A.py) | `math` `*800` | Mar/31/2021 23:06 | 
-185 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [Python 3](./codeforces/1447/B.py) | `greedy` `math` `*1000` | Mar/31/2021 23:06 | 
-184 | [A - Array Rearrangment](https://codeforces.com/contest/1445/problem/A) | [Python 3](./codeforces/1445/A.py) | `greedy` `sortings` `*800` | Mar/31/2021 23:06 | 
+196 | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | [Python 3](./codeforces/1296/A.py) | `math` `*800` | Apr/03/2021 23:52 | 
+195 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [Python 3](./codeforces/1504/A.py) | `constructive algorithms` | Apr/03/2021 23:24 | 
+194 | [A - Floor Number](https://codeforces.com/contest/1426/problem/A) | [Python 3](./codeforces/1426/A.py) | `implementation` `math` `*800` | Apr/03/2021 23:10 | 
+193 | [C - Registration System](https://codeforces.com/contest/4/problem/C) | [Python 3](./codeforces/4/C.py) | `data structures` `hashing` `implementation` `*1300` | Apr/02/2021 23:51 | 
+192 | [B - Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | [Python 3](./codeforces/492/B.py) | `binary search` `implementation` `math` `sortings` `*1200` | Apr/02/2021 23:49 | 
+191 | [B - Taxi](https://codeforces.com/contest/158/problem/B) | [Python 3](./codeforces/158/B.py) | `*special problem` `greedy` `implementation` `*1100` | Apr/02/2021 23:46 | 
+190 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [Python 3](./codeforces/1505/C.py) | `constructive algorithms` `implementation` | Apr/01/2021 23:51 | 
+189 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [Python 3](./codeforces/1505/B.py) | `constructive algorithms` `implementation` `number theory` | Apr/01/2021 23:29 | 
+188 | [A - Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | [Python 3](./codeforces/1505/A.py) | `implementation` `interactive` | Apr/01/2021 23:14 | 
+187 | [A - Box is Pull](https://codeforces.com/contest/1428/problem/A) | [Python 3](./codeforces/1428/A.py) | `math` `*800` | Mar/31/2021 23:06 | 
+186 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [Python 3](./codeforces/1447/B.py) | `greedy` `math` `*1000` | Mar/31/2021 23:06 | 
+185 | [A - Array Rearrangment](https://codeforces.com/contest/1445/problem/A) | [Python 3](./codeforces/1445/A.py) | `greedy` `sortings` `*800` | Mar/31/2021 23:06 | 
+184 | [A - Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | [Python 3](./codeforces/492/A.py) | `implementation` `*800` | Mar/30/2021 23:54 | 
 183 | [C - Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | [Java 11](./codeforces/1506/C.java) | `brute force` `dp` `hashing` `strings` `*1000` | Mar/28/2021 01:54 | 
 182 | [A - Magical Sticks](https://codeforces.com/contest/1371/problem/A) | [Python 3](./codeforces/1371/A.py) | `math` `*800` | Mar/27/2021 23:53 | 
 181 | [B - Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | [Python 3](./codeforces/1374/B.py) | `math` `*900` | Mar/27/2021 00:40 | 
