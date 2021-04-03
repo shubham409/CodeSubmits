@@ -69,11 +69,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 206 | [A - Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | [Python 3](./codeforces/1283/A.py) | `math` `*800` | Apr/04/2021 23:29 | 
 205 | [A - Road To Zero](https://codeforces.com/contest/1342/problem/A) | [Python 3](./codeforces/1342/A.py) | `greedy` `math` `*1000` | Apr/04/2021 23:25 | 
 204 | [A - Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | [Python 3](./codeforces/630/A.py) | `number theory` `*800` | Apr/04/2021 23:09 | 
-203 | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | [Python 3](./codeforces/1296/A.py) | `math` `*800` | Apr/03/2021 23:52 | 
-202 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [Python 3](./codeforces/1504/A.py) | `constructive algorithms` | Apr/03/2021 23:24 | 
-201 | [A - Floor Number](https://codeforces.com/contest/1426/problem/A) | [Python 3](./codeforces/1426/A.py) | `implementation` `math` `*800` | Apr/03/2021 23:10 | 
-200 | [C - Registration System](https://codeforces.com/contest/4/problem/C) | [Python 3](./codeforces/4/C.py) | `data structures` `hashing` `implementation` `*1300` | Apr/02/2021 23:51 | 
-199 | [B - Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | [Python 3](./codeforces/492/B.py) | `binary search` `implementation` `math` `sortings` `*1200` | Apr/02/2021 23:49 | 
+203 | [B - Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | [Python 3](./codeforces/492/B.py) | `binary search` `implementation` `math` `sortings` `*1200` | Apr/04/2021 00:16 | 
+202 | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | [Python 3](./codeforces/1296/A.py) | `math` `*800` | Apr/03/2021 23:52 | 
+201 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [Python 3](./codeforces/1504/A.py) | `constructive algorithms` | Apr/03/2021 23:24 | 
+200 | [A - Floor Number](https://codeforces.com/contest/1426/problem/A) | [Python 3](./codeforces/1426/A.py) | `implementation` `math` `*800` | Apr/03/2021 23:10 | 
+199 | [C - Registration System](https://codeforces.com/contest/4/problem/C) | [Python 3](./codeforces/4/C.py) | `data structures` `hashing` `implementation` `*1300` | Apr/02/2021 23:51 | 
 198 | [B - Taxi](https://codeforces.com/contest/158/problem/B) | [Python 3](./codeforces/158/B.py) | `*special problem` `greedy` `implementation` `*1100` | Apr/02/2021 23:46 | 
 197 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [Python 3](./codeforces/1505/C.py) | `constructive algorithms` `implementation` | Apr/01/2021 23:51 | 
 196 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [Python 3](./codeforces/1505/B.py) | `constructive algorithms` `implementation` `number theory` | Apr/01/2021 23:29 | 
