@@ -3569,6 +3569,22 @@
     ],
     "timestamp": "Apr/03/2021 23:52"
   },
+  "CF113643561": {
+    "contest_id": 1285,
+    "language": "Python 3",
+    "path": "codeforces\\1285\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mezo Playing Zoma",
+    "problem_url": "https://codeforces.com/contest/1285/problem/A",
+    "submission_id": "CF113643561",
+    "submission_url": "https://codeforces.com/contest/1285/submission/113643561",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/20/2021 23:51"
+  },
   "CF113644449": {
     "contest_id": 734,
     "language": "Python 3",
