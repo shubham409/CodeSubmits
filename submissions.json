@@ -3569,6 +3569,23 @@
     ],
     "timestamp": "Apr/03/2021 23:52"
   },
+  "CF113914034": {
+    "contest_id": 313,
+    "language": "PyPy 3",
+    "path": "codeforces\\313\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ilya and Bank Account",
+    "problem_url": "https://codeforces.com/contest/313/problem/A",
+    "submission_id": "CF113914034",
+    "submission_url": "https://codeforces.com/contest/313/submission/113914034",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Apr/22/2021 23:54"
+  },
   "CF113914178": {
     "contest_id": 313,
     "language": "Python 3",

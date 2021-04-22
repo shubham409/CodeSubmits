@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-208 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [Python 3](./codeforces/208/A.py) | `strings` `*900` | Apr/23/2021 23:48 | 
-207 | [A - Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [Python 3](./codeforces/1517/A.py) | `greedy` `implementation` | Apr/23/2021 23:30 | 
-206 | [B - Morning Jogging](https://codeforces.com/contest/1517/problem/B) | [Python 3](./codeforces/1517/B.py) | `constructive algorithms` `greedy` `sortings` | Apr/23/2021 23:26 | 
-205 | [A - Nastya and Rice](https://codeforces.com/contest/1341/problem/A) | [Python 3](./codeforces/1341/A.py) | `math` `*900` | Apr/22/2021 23:59 | 
-204 | [B - Ilya and Queries](https://codeforces.com/contest/313/problem/B) | [Python 3](./codeforces/313/B.py) | `dp` `implementation` `*1100` | Apr/22/2021 23:56 | 
+209 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [Python 3](./codeforces/208/A.py) | `strings` `*900` | Apr/23/2021 23:48 | 
+208 | [A - Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [Python 3](./codeforces/1517/A.py) | `greedy` `implementation` | Apr/23/2021 23:30 | 
+207 | [B - Morning Jogging](https://codeforces.com/contest/1517/problem/B) | [Python 3](./codeforces/1517/B.py) | `constructive algorithms` `greedy` `sortings` | Apr/23/2021 23:26 | 
+206 | [A - Nastya and Rice](https://codeforces.com/contest/1341/problem/A) | [Python 3](./codeforces/1341/A.py) | `math` `*900` | Apr/22/2021 23:59 | 
+205 | [B - Ilya and Queries](https://codeforces.com/contest/313/problem/B) | [Python 3](./codeforces/313/B.py) | `dp` `implementation` `*1100` | Apr/22/2021 23:56 | 
+204 | [A - Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | [PyPy 3](./codeforces/313/A.py) | `implementation` `number theory` `*900` | Apr/22/2021 23:54 | 
 203 | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | [Python 3](./codeforces/1296/A.py) | `math` `*800` | Apr/03/2021 23:52 | 
 202 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [Python 3](./codeforces/1504/A.py) | `constructive algorithms` | Apr/03/2021 23:24 | 
 201 | [A - Floor Number](https://codeforces.com/contest/1426/problem/A) | [Python 3](./codeforces/1426/A.py) | `implementation` `math` `*800` | Apr/03/2021 23:10 | 
