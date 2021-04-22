@@ -3569,6 +3569,23 @@
     ],
     "timestamp": "Apr/03/2021 23:52"
   },
+  "CF113914178": {
+    "contest_id": 313,
+    "language": "Python 3",
+    "path": "codeforces\\313\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ilya and Queries",
+    "problem_url": "https://codeforces.com/contest/313/problem/B",
+    "submission_id": "CF113914178",
+    "submission_url": "https://codeforces.com/contest/313/submission/113914178",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/22/2021 23:56"
+  },
   "CF113914379": {
     "contest_id": 1341,
     "language": "Python 3",
