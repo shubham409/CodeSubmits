@@ -3569,6 +3569,23 @@
     ],
     "timestamp": "Apr/03/2021 23:52"
   },
+  "CF114045108": {
+    "contest_id": 1517,
+    "language": "Python 3",
+    "path": "codeforces\\1517\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Morning Jogging",
+    "problem_url": "https://codeforces.com/contest/1517/problem/B",
+    "submission_id": "CF114045108",
+    "submission_url": "https://codeforces.com/contest/1517/submission/114045108",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Apr/23/2021 23:26"
+  },
   "CF114045473": {
     "contest_id": 1517,
     "language": "Python 3",
