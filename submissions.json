@@ -3569,6 +3569,22 @@
     ],
     "timestamp": "Apr/03/2021 23:52"
   },
+  "CF114045473": {
+    "contest_id": 1517,
+    "language": "Python 3",
+    "path": "codeforces\\1517\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of 2050",
+    "problem_url": "https://codeforces.com/contest/1517/problem/A",
+    "submission_id": "CF114045473",
+    "submission_url": "https://codeforces.com/contest/1517/submission/114045473",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Apr/23/2021 23:30"
+  },
   "CF114047227": {
     "contest_id": 208,
     "language": "Python 3",
