@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+204 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [Python 3](./codeforces/208/A.py) | `strings` `*900` | Apr/23/2021 23:48 | 
 203 | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | [Python 3](./codeforces/1296/A.py) | `math` `*800` | Apr/03/2021 23:52 | 
 202 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [Python 3](./codeforces/1504/A.py) | `constructive algorithms` | Apr/03/2021 23:24 | 
 201 | [A - Floor Number](https://codeforces.com/contest/1426/problem/A) | [Python 3](./codeforces/1426/A.py) | `implementation` `math` `*800` | Apr/03/2021 23:10 | 
@@ -22,9 +23,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 197 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [Python 3](./codeforces/1505/C.py) | `constructive algorithms` `implementation` | Apr/01/2021 23:51 | 
 196 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [Python 3](./codeforces/1505/B.py) | `constructive algorithms` `implementation` `number theory` | Apr/01/2021 23:29 | 
 195 | [A - Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | [Python 3](./codeforces/1505/A.py) | `implementation` `interactive` | Apr/01/2021 23:14 | 
-194 | [A - Box is Pull](https://codeforces.com/contest/1428/problem/A) | [Python 3](./codeforces/1428/A.py) | `math` `*800` | Mar/31/2021 23:06 | 
+194 | [A - Array Rearrangment](https://codeforces.com/contest/1445/problem/A) | [Python 3](./codeforces/1445/A.py) | `greedy` `sortings` `*800` | Mar/31/2021 23:06 | 
 193 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [Python 3](./codeforces/1447/B.py) | `greedy` `math` `*1000` | Mar/31/2021 23:06 | 
-192 | [A - Array Rearrangment](https://codeforces.com/contest/1445/problem/A) | [Python 3](./codeforces/1445/A.py) | `greedy` `sortings` `*800` | Mar/31/2021 23:06 | 
+192 | [A - Box is Pull](https://codeforces.com/contest/1428/problem/A) | [Python 3](./codeforces/1428/A.py) | `math` `*800` | Mar/31/2021 23:06 | 
 191 | [A - Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | [Python 3](./codeforces/492/A.py) | `implementation` `*800` | Mar/30/2021 23:54 | 
 190 | [A - Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | [Python 3](./codeforces/1352/A.py) | `implementation` `math` `*800` | Mar/30/2021 23:53 | 
 189 | [B - Box Fitting](https://codeforces.com/contest/1498/problem/B) | [Java 11](./codeforces/1498/B.java) | `binary search` `bitmasks` `data structures` `greedy` | Mar/30/2021 19:38 | 
