@@ -8,6 +8,7 @@ def fun(ls,n,m):
         for i in range(n):
             for j in range(count):
                 if(mn>ans[i][j]):
+                    # mn=min(ans[i][j],mn)
                     mn=ans[i][j]
                     mn_index=[i,j]
 
@@ -17,6 +18,7 @@ def fun(ls,n,m):
                 mx_index=-1
                 for j in range(count):
                     if(mx<ans[i][j]):
+                        # mx=min(ans[i][j],mx)
                         mx=ans[i][j]
                         mx_index=[i,j]
                 ans[i].pop(mx_index[1])
@@ -24,9 +26,11 @@ def fun(ls,n,m):
             else:
                 ans[mn_index[0]].pop(mn_index[1])
                 show[mn_index[0]].append(mn)                
+
         count-=1
     for i in show:
         print(*i)
+        
 
 T = int(input())
 for i in range(T):
