@@ -4765,6 +4765,24 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF114142074": {
+    "contest_id": 141,
+    "language": "Python 3",
+    "path": "codeforces\\141\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Amusing Joke",
+    "problem_url": "https://codeforces.com/contest/141/problem/A",
+    "submission_id": "CF114142074",
+    "submission_url": "https://codeforces.com/contest/141/submission/114142074",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/24/2021 23:58"
+  },
   "CF114223315": {
     "contest_id": 706,
     "language": "GNU C++17",
