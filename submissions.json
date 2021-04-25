@@ -4765,6 +4765,24 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF114226107": {
+    "contest_id": 270,
+    "language": "Python 3",
+    "path": "codeforces\\270\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fancy Fence",
+    "problem_url": "https://codeforces.com/contest/270/problem/A",
+    "submission_id": "CF114226107",
+    "submission_url": "https://codeforces.com/contest/270/submission/114226107",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/25/2021 23:42"
+  },
   "CF114303603": {
     "contest_id": 474,
     "language": "GNU C++17",
