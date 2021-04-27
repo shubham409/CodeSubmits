@@ -74,7 +74,7 @@ int main() {
     input(n);
     vector<int>v(n);
     vector<int>st(n);
-    for_each(v.begin(),v.end(),input_predicate);
+    inputvector(v,n);
     copy(v.begin(),v.end(),st.begin());
     sort(st.begin(),st.end());
     int a=-1,b=-1;
@@ -91,7 +91,9 @@ int main() {
         }
 
     }
+//    println(a<<" "<<b);
     reverse(v.begin()+a,v.begin()+b+1);
+//    for_each(v.begin(),v.end(),output_predicate);
     bool ans=is_sorted(v.begin(),v.end());
     if(a==-1 && b==-1){
         println("yes");
