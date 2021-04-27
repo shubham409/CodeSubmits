@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF114391086": {
+    "contest_id": 1353,
+    "language": "Python 3",
+    "path": "codeforces\\1353\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Board Moves",
+    "problem_url": "https://codeforces.com/contest/1353/problem/C",
+    "submission_id": "CF114391086",
+    "submission_url": "https://codeforces.com/contest/1353/submission/114391086",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2021 23:56"
+  },
   "CF114475651": {
     "contest_id": 1360,
     "language": "Python 3",
