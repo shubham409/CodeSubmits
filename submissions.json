@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF114711132": {
+    "contest_id": 1399,
+    "language": "Python 3",
+    "path": "codeforces\\1399\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gifts Fixing",
+    "problem_url": "https://codeforces.com/contest/1399/problem/B",
+    "submission_id": "CF114711132",
+    "submission_url": "https://codeforces.com/contest/1399/submission/114711132",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/30/2021 23:48"
+  },
   "CF114796266": {
     "contest_id": 703,
     "language": "Python 3",
