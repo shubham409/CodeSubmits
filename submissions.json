@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF114798577": {
+    "contest_id": 1385,
+    "language": "Python 3",
+    "path": "codeforces\\1385\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restore the Permutation by Merger",
+    "problem_url": "https://codeforces.com/contest/1385/problem/B",
+    "submission_id": "CF114798577",
+    "submission_url": "https://codeforces.com/contest/1385/submission/114798577",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/01/2021 23:55"
+  },
   "CF114798633": {
     "contest_id": 1358,
     "language": "Python 3",
