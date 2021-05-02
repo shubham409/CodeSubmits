@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF114959876": {
+    "contest_id": 431,
+    "language": "Python 3",
+    "path": "codeforces\\431\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Black Square",
+    "problem_url": "https://codeforces.com/contest/431/problem/A",
+    "submission_id": "CF114959876",
+    "submission_url": "https://codeforces.com/contest/431/submission/114959876",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/02/2021 23:59"
+  },
   "CF114992302": {
     "contest_id": 1515,
     "language": "Python 3",
