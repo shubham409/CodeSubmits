@@ -4765,6 +4765,24 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF115142965": {
+    "contest_id": 1325,
+    "language": "Python 3",
+    "path": "codeforces\\1325\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "EhAb AnD gCd",
+    "problem_url": "https://codeforces.com/contest/1325/problem/A",
+    "submission_id": "CF115142965",
+    "submission_url": "https://codeforces.com/contest/1325/submission/115142965",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "May/04/2021 23:54"
+  },
   "CF115330875": {
     "contest_id": 1520,
     "language": "Python 3",
