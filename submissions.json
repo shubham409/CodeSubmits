@@ -4765,6 +4765,23 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF115142725": {
+    "contest_id": 1325,
+    "language": "Python 3",
+    "path": "codeforces\\1325\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "CopyCopyCopyCopyCopy",
+    "problem_url": "https://codeforces.com/contest/1325/problem/B",
+    "submission_id": "CF115142725",
+    "submission_url": "https://codeforces.com/contest/1325/submission/115142725",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/04/2021 23:52"
+  },
   "CF115142965": {
     "contest_id": 1325,
     "language": "Python 3",
