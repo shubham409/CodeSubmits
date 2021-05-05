@@ -4765,6 +4765,24 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF115343824": {
+    "contest_id": 1520,
+    "language": "Python 3",
+    "path": "codeforces\\1520\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Same Differences",
+    "problem_url": "https://codeforces.com/contest/1520/problem/D",
+    "submission_id": "CF115343824",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115343824",
+    "tags": [
+      "data structures",
+      "hashing",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/05/2021 23:43"
+  },
   "CF115399886": {
     "contest_id": 1520,
     "language": "Python 3",
