@@ -4765,6 +4765,23 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF115436057": {
+    "contest_id": 1520,
+    "language": "Python 3",
+    "path": "codeforces\\1520\\F1.py",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Guess the K-th Zero (Easy version)",
+    "problem_url": "https://codeforces.com/contest/1520/problem/F1",
+    "submission_id": "CF115436057",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115436057",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*1600"
+    ],
+    "timestamp": "May/06/2021 21:25"
+  },
   "CF115449081": {
     "contest_id": 1335,
     "language": "Python 3",
