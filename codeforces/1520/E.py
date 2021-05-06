@@ -41,6 +41,7 @@ def fun(st,n):
         else:
             ans=min(ans,prefix[i])
     print(ans)
+
 T = int(input())
 for _ in range(T):
     n=int(input())
