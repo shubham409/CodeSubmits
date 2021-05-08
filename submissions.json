@@ -4765,6 +4765,23 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF115730638": {
+    "contest_id": 701,
+    "language": "PyPy 3",
+    "path": "codeforces\\701\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/701/problem/A",
+    "submission_id": "CF115730638",
+    "submission_url": "https://codeforces.com/contest/701/submission/115730638",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/08/2021 23:57"
+  },
   "CF115809696": {
     "contest_id": 1374,
     "language": "PyPy 3",
