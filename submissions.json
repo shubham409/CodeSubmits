@@ -4765,6 +4765,23 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF115811746": {
+    "contest_id": 9,
+    "language": "Python 3",
+    "path": "codeforces\\9\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Die Roll",
+    "problem_url": "https://codeforces.com/contest/9/problem/A",
+    "submission_id": "CF115811746",
+    "submission_url": "https://codeforces.com/contest/9/submission/115811746",
+    "tags": [
+      "math",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "May/09/2021 23:46"
+  },
   "CF115842839": {
     "contest_id": 1516,
     "language": "PyPy 3",
