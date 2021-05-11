@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF115971475": {
+    "contest_id": 474,
+    "language": "Python 3",
+    "path": "codeforces\\474\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Keyboard",
+    "problem_url": "https://codeforces.com/contest/474/problem/A",
+    "submission_id": "CF115971475",
+    "submission_url": "https://codeforces.com/contest/474/submission/115971475",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/12/2021 00:07"
+  },
   "CF115971594": {
     "contest_id": 474,
     "language": "Python 3",
