@@ -5,7 +5,9 @@ def fun(st,n):
     for i in st:
         if( not done):
             if('OO' in i):
-                ans.append(i.replace('OO','++',1))
+                temp=i
+                index=temp.find('OO')
+                ans.append(temp[:index]+'++'+temp[index+2:])
                 done=True
             else:
                 ans.append(i)
