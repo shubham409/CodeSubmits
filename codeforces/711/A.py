@@ -1,27 +1,6 @@
-import sys
-def fun(st,n): 
-    done=False
-    ans=[]    
-    for i in st:
-        if( not done):
-            if('OO' in i):
-                temp=i
-                index=temp.find('OO')
-                ans.append(temp[:index]+'++'+temp[index+2:])
-                done=True
-            else:
-                ans.append(i)
-        else:
-            ans.append(i)
-    if(done==False):
-        print('NO')
-    else:
-        print('YES')
-        for i in ans:
-            print(i,end='')
-
-T=1
-for i in range(T):
-    n=int(input())
-    st=sys.stdin.readlines()
-    fun(st,n)
+a = '\n'.join(input() for i in range(int(input())))
+if 'OO' in a:
+    print('YES')
+    print(a.replace('OO', '++', 1))
+else:
+    print('NO')
