@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF115970031": {
+    "contest_id": 556,
+    "language": "Python 3",
+    "path": "codeforces\\556\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Case of the Zeros and Ones",
+    "problem_url": "https://codeforces.com/contest/556/problem/A",
+    "submission_id": "CF115970031",
+    "submission_url": "https://codeforces.com/contest/556/submission/115970031",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "May/11/2021 23:41"
+  },
   "CF115970809": {
     "contest_id": 474,
     "language": "Python 3",
