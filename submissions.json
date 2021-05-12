@@ -4765,6 +4765,23 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116052800": {
+    "contest_id": 1397,
+    "language": "Python 3",
+    "path": "codeforces\\1397\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Juggling Letters",
+    "problem_url": "https://codeforces.com/contest/1397/problem/A",
+    "submission_id": "CF116052800",
+    "submission_url": "https://codeforces.com/contest/1397/submission/116052800",
+    "tags": [
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/12/2021 23:42"
+  },
   "CF116053215": {
     "contest_id": 499,
     "language": "Python 3",
