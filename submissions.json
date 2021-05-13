@@ -4765,6 +4765,25 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116127093": {
+    "contest_id": 1339,
+    "language": "Python 3",
+    "path": "codeforces\\1339\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Filling Diamonds",
+    "problem_url": "https://codeforces.com/contest/1339/problem/A",
+    "submission_id": "CF116127093",
+    "submission_url": "https://codeforces.com/contest/1339/submission/116127093",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/13/2021 22:43"
+  },
   "CF116128025": {
     "contest_id": 1400,
     "language": "Python 3",
