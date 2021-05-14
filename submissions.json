@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116193570": {
+    "contest_id": 1373,
+    "language": "Python 3",
+    "path": "codeforces\\1373\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "01 Game",
+    "problem_url": "https://codeforces.com/contest/1373/problem/B",
+    "submission_id": "CF116193570",
+    "submission_url": "https://codeforces.com/contest/1373/submission/116193570",
+    "tags": [
+      "games",
+      "*900"
+    ],
+    "timestamp": "May/14/2021 21:00"
+  },
   "CF116246497": {
     "contest_id": 1196,
     "language": "GNU C++17",
