@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116193441": {
+    "contest_id": 119,
+    "language": "Python 3",
+    "path": "codeforces\\119\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Epic Game",
+    "problem_url": "https://codeforces.com/contest/119/problem/A",
+    "submission_id": "CF116193441",
+    "submission_url": "https://codeforces.com/contest/119/submission/116193441",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/14/2021 20:58"
+  },
   "CF116193570": {
     "contest_id": 1373,
     "language": "Python 3",
