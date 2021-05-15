@@ -120,7 +120,7 @@ void solve()
         int one=0,two=0;
         
         one += count(s.begin(), s.end(), '.');
-        int pos =s.find("..",0);
+        size_t pos =s.find("..",0);
         while (pos != string:: npos)
         {
             two++;
