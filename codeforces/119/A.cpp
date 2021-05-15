@@ -114,15 +114,36 @@ void solve()
 {
     int i=0;
     getall(a,b,rem);
-    int ar[]={a,b};
+
     while(rem>=0){
-        int to_take = __gcd(ar[i],rem);
-        rem-=to_take;
-        i=1-i;
+        if(i%2==0){
+            int to_take = __gcd(a,rem);
+            if(to_take > rem){
+                println(1);
+                break;
+            }
+            else{
+                rem -= to_take;
+            }
+        }
+        else{
+            int to_take = __gcd(b, rem);
+            if (to_take > rem)
+            {
+                println(0);
+                break;
+            }
+            else
+            {
+                rem -= to_take;
+            }
+        }
+        i+=1;
     }
-    println(i);
 }
 int main()
 {
+
     solve();
+
 }
