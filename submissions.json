@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116428752": {
+    "contest_id": 1345,
+    "language": "PyPy 3",
+    "path": "codeforces\\1345\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzle Pieces",
+    "problem_url": "https://codeforces.com/contest/1345/problem/A",
+    "submission_id": "CF116428752",
+    "submission_url": "https://codeforces.com/contest/1345/submission/116428752",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2021 23:53"
+  },
   "CF116510061": {
     "contest_id": 1388,
     "language": "PyPy 3",
