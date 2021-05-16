@@ -4765,6 +4765,19 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116426593": {
+    "contest_id": 1525,
+    "language": "GNU C++17",
+    "path": "codeforces\\1525\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Sort",
+    "problem_url": "https://codeforces.com/contest/1525/problem/B",
+    "submission_id": "CF116426593",
+    "submission_url": "https://codeforces.com/contest/1525/submission/116426593",
+    "tags": [],
+    "timestamp": "May/16/2021 23:17"
+  },
   "CF116426677": {
     "contest_id": 1525,
     "language": "PyPy 3",
