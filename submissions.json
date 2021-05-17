@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116510578": {
+    "contest_id": 599,
+    "language": "PyPy 3",
+    "path": "codeforces\\599\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Patrick and Shopping",
+    "problem_url": "https://codeforces.com/contest/599/problem/A",
+    "submission_id": "CF116510578",
+    "submission_url": "https://codeforces.com/contest/599/submission/116510578",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/17/2021 23:58"
+  },
   "CF116595491": {
     "contest_id": 1433,
     "language": "PyPy 3",
