@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116595833": {
+    "contest_id": 1431,
+    "language": "Kotlin",
+    "path": "codeforces\\1431\\A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Selling Hamburgers",
+    "problem_url": "https://codeforces.com/contest/1431/problem/A",
+    "submission_id": "CF116595833",
+    "submission_url": "https://codeforces.com/contest/1431/submission/116595833",
+    "tags": [
+      "*special problem",
+      "*800"
+    ],
+    "timestamp": "May/18/2021 23:57"
+  },
   "CF116685564": {
     "contest_id": 1296,
     "language": "Python 3",
