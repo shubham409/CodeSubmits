@@ -4765,6 +4765,24 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116685840": {
+    "contest_id": 822,
+    "language": "Python 3",
+    "path": "codeforces\\822\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I'm bored with life",
+    "problem_url": "https://codeforces.com/contest/822/problem/A",
+    "submission_id": "CF116685840",
+    "submission_url": "https://codeforces.com/contest/822/submission/116685840",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "May/19/2021 23:58"
+  },
   "CF116849711": {
     "contest_id": 1527,
     "language": "Python 3",
