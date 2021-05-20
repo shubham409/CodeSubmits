@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116849833": {
+    "contest_id": 1527,
+    "language": "Python 3",
+    "path": "codeforces\\1527\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "And Then There Were K",
+    "problem_url": "https://codeforces.com/contest/1527/problem/A",
+    "submission_id": "CF116849833",
+    "submission_url": "https://codeforces.com/contest/1527/submission/116849833",
+    "tags": [
+      "bitmasks",
+      "*800"
+    ],
+    "timestamp": "May/20/2021 23:39"
+  },
   "CF116849900": {
     "contest_id": 1527,
     "language": "PyPy 3",
