@@ -4765,6 +4765,23 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116849711": {
+    "contest_id": 1527,
+    "language": "Python 3",
+    "path": "codeforces\\1527\\B1.py",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Palindrome Game (easy version)",
+    "problem_url": "https://codeforces.com/contest/1527/problem/B1",
+    "submission_id": "CF116849711",
+    "submission_url": "https://codeforces.com/contest/1527/submission/116849711",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "*1200"
+    ],
+    "timestamp": "May/20/2021 23:38"
+  },
   "CF116849833": {
     "contest_id": 1527,
     "language": "Python 3",
