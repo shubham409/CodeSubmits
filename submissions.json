@@ -4765,6 +4765,24 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF116950546": {
+    "contest_id": 1398,
+    "language": "Python 3",
+    "path": "codeforces\\1398\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Substring Removal Game",
+    "problem_url": "https://codeforces.com/contest/1398/problem/B",
+    "submission_id": "CF116950546",
+    "submission_url": "https://codeforces.com/contest/1398/submission/116950546",
+    "tags": [
+      "games",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/21/2021 23:48"
+  },
   "CF116950778": {
     "contest_id": 686,
     "language": "Python 3",
