@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF117041189": {
+    "contest_id": 1077,
+    "language": "Python 3",
+    "path": "codeforces\\1077\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Frog Jumping",
+    "problem_url": "https://codeforces.com/contest/1077/problem/A",
+    "submission_id": "CF117041189",
+    "submission_url": "https://codeforces.com/contest/1077/submission/117041189",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/22/2021 23:56"
+  },
   "CF117041237": {
     "contest_id": 1303,
     "language": "Python 3",
