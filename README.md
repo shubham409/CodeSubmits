@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-262 | [A - Rewards](https://codeforces.com/contest/448/problem/A) | [Python 3](./codeforces/448/A.py) | `implementation` `*800` | May/24/2021 23:56 | 
-261 | [A - Two Rabbits](https://codeforces.com/contest/1304/problem/A) | [Python 3](./codeforces/1304/A.py) | `math` `*800` | May/24/2021 23:55 | 
-260 | [A - Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [Python 3](./codeforces/1529/A.py) | `constructive algorithms` `greedy` | May/24/2021 23:29 | 
+263 | [A - Rewards](https://codeforces.com/contest/448/problem/A) | [Python 3](./codeforces/448/A.py) | `implementation` `*800` | May/24/2021 23:56 | 
+262 | [A - Two Rabbits](https://codeforces.com/contest/1304/problem/A) | [Python 3](./codeforces/1304/A.py) | `math` `*800` | May/24/2021 23:55 | 
+261 | [A - Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [Python 3](./codeforces/1529/A.py) | `constructive algorithms` `greedy` | May/24/2021 23:29 | 
+260 | [B - Two-gram](https://codeforces.com/contest/977/problem/B) | [Python 3](./codeforces/977/B.py) | `implementation` `strings` `*900` | May/24/2021 00:07 | 
 259 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [Python 3](./codeforces/208/A.py) | `strings` `*900` | Apr/23/2021 23:48 | 
 258 | [A - Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [Python 3](./codeforces/1517/A.py) | `greedy` `implementation` | Apr/23/2021 23:30 | 
 257 | [B - Morning Jogging](https://codeforces.com/contest/1517/problem/B) | [Python 3](./codeforces/1517/B.py) | `constructive algorithms` `greedy` `sortings` | Apr/23/2021 23:26 | 
