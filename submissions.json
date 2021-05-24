@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF117260392": {
+    "contest_id": 1304,
+    "language": "Python 3",
+    "path": "codeforces\\1304\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Rabbits",
+    "problem_url": "https://codeforces.com/contest/1304/problem/A",
+    "submission_id": "CF117260392",
+    "submission_url": "https://codeforces.com/contest/1304/submission/117260392",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/24/2021 23:55"
+  },
   "CF117260516": {
     "contest_id": 448,
     "language": "Python 3",
