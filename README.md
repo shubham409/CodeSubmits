@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+260 | [A - Rewards](https://codeforces.com/contest/448/problem/A) | [Python 3](./codeforces/448/A.py) | `implementation` `*800` | May/24/2021 23:56 | 
 259 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [Python 3](./codeforces/208/A.py) | `strings` `*900` | Apr/23/2021 23:48 | 
 258 | [A - Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [Python 3](./codeforces/1517/A.py) | `greedy` `implementation` | Apr/23/2021 23:30 | 
 257 | [B - Morning Jogging](https://codeforces.com/contest/1517/problem/B) | [Python 3](./codeforces/1517/B.py) | `constructive algorithms` `greedy` `sortings` | Apr/23/2021 23:26 | 
@@ -24,8 +25,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 251 | [B - Anton and Digits](https://codeforces.com/contest/734/problem/B) | [Python 3](./codeforces/734/B.py) | `brute force` `greedy` `implementation` `math` `*800` | Apr/21/2021 00:06 | 
 250 | [A - Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | [Python 3](./codeforces/1285/A.py) | `math` `*800` | Apr/20/2021 23:51 | 
 249 | [A - Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | [Python 3](./codeforces/742/A.py) | `implementation` `math` `number theory` `*1000` | Apr/20/2021 23:44 | 
-248 | [A - Perfectly Imperfect Array](https://codeforces.com/contest/1514/problem/A) | [PyPy 3](./codeforces/1514/A.py) | `math` `number theory` `*800` | Apr/19/2021 23:11 | 
-247 | [B - AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | [PyPy 3](./codeforces/1514/B.py) | `bitmasks` `combinatorics` `math` `*1200` | Apr/19/2021 23:11 | 
+248 | [B - AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | [PyPy 3](./codeforces/1514/B.py) | `bitmasks` `combinatorics` `math` `*1200` | Apr/19/2021 23:11 | 
+247 | [A - Perfectly Imperfect Array](https://codeforces.com/contest/1514/problem/A) | [PyPy 3](./codeforces/1514/A.py) | `math` `number theory` `*800` | Apr/19/2021 23:11 | 
 246 | [A - Collecting Coins](https://codeforces.com/contest/1294/problem/A) | [PyPy 3](./codeforces/1294/A.py) | `math` `*800` | Apr/18/2021 23:23 | 
 245 | [A - Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | [PyPy 3](./codeforces/1311/A.py) | `greedy` `implementation` `math` `*800` | Apr/18/2021 23:06 | 
 244 | [A - Brain's Photos](https://codeforces.com/contest/707/problem/A) | [PyPy 3](./codeforces/707/A.py) | `implementation` `*800` | Apr/18/2021 22:50 | 
@@ -33,8 +34,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 242 | [A - Required Remainder](https://codeforces.com/contest/1374/problem/A) | [PyPy 3](./codeforces/1374/A.py) | `math` `*800` | Apr/17/2021 23:42 | 
 241 | [A - Orac and Factors](https://codeforces.com/contest/1350/problem/A) | [PyPy 3](./codeforces/1350/A.py) | `math` `*900` | Apr/17/2021 23:32 | 
 240 | [B - Balanced Array](https://codeforces.com/contest/1343/problem/B) | [Python 3](./codeforces/1343/B.py) | `constructive algorithms` `math` `*800` | Apr/16/2021 23:56 | 
-239 | [B - TMT Document](https://codeforces.com/contest/1509/problem/B) | [Python 3](./codeforces/1509/B.py) | `greedy` `*1100` | Apr/16/2021 23:39 | 
-238 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [Python 3](./codeforces/1509/A.py) | `constructive algorithms` `*800` | Apr/16/2021 23:39 | 
+239 | [A - Average Height](https://codeforces.com/contest/1509/problem/A) | [Python 3](./codeforces/1509/A.py) | `constructive algorithms` `*800` | Apr/16/2021 23:39 | 
+238 | [B - TMT Document](https://codeforces.com/contest/1509/problem/B) | [Python 3](./codeforces/1509/B.py) | `greedy` `*1100` | Apr/16/2021 23:39 | 
 237 | [B - Teams Forming](https://codeforces.com/contest/1092/problem/B) | [Python 3](./codeforces/1092/B.py) | `sortings` `*800` | Apr/15/2021 23:56 | 
 236 | [A - Equalize Prices Again](https://codeforces.com/contest/1234/problem/A) | [Python 3](./codeforces/1234/A.py) | `math` `*800` | Apr/15/2021 23:54 | 
 235 | [A - Fafa and his Company](https://codeforces.com/contest/935/problem/A) | [Python 3](./codeforces/935/A.py) | `brute force` `implementation` `*800` | Apr/15/2021 23:53 | 

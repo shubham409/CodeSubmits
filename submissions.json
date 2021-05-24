@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF117260516": {
+    "contest_id": 448,
+    "language": "Python 3",
+    "path": "codeforces\\448\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rewards",
+    "problem_url": "https://codeforces.com/contest/448/problem/A",
+    "submission_id": "CF117260516",
+    "submission_url": "https://codeforces.com/contest/448/submission/117260516",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/24/2021 23:56"
+  },
   "CF83929825": {
     "contest_id": 4,
     "language": "Python 3",
