@@ -4765,6 +4765,22 @@
     ],
     "timestamp": "Apr/23/2021 23:48"
   },
+  "CF117258500": {
+    "contest_id": 1529,
+    "language": "Python 3",
+    "path": "codeforces\\1529\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eshag Loves Big Arrays",
+    "problem_url": "https://codeforces.com/contest/1529/problem/A",
+    "submission_id": "CF117258500",
+    "submission_url": "https://codeforces.com/contest/1529/submission/117258500",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "May/24/2021 23:29"
+  },
   "CF117260392": {
     "contest_id": 1304,
     "language": "Python 3",
