@@ -6999,6 +6999,22 @@
     ],
     "timestamp": "May/24/2021 23:56"
   },
+  "CF117350871": {
+    "contest_id": 1183,
+    "language": "Python 3",
+    "path": "codeforces\\1183\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nearest Interesting Number",
+    "problem_url": "https://codeforces.com/contest/1183/problem/A",
+    "submission_id": "CF117350871",
+    "submission_url": "https://codeforces.com/contest/1183/submission/117350871",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/25/2021 23:56"
+  },
   "CF117436297": {
     "contest_id": 1529,
     "language": "Python 3",
