@@ -6999,6 +6999,22 @@
     ],
     "timestamp": "May/24/2021 23:56"
   },
+  "CF117437280": {
+    "contest_id": 1354,
+    "language": "Python 3",
+    "path": "codeforces\\1354\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alarm Clock",
+    "problem_url": "https://codeforces.com/contest/1354/problem/A",
+    "submission_id": "CF117437280",
+    "submission_url": "https://codeforces.com/contest/1354/submission/117437280",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/26/2021 23:55"
+  },
   "CF117523853": {
     "contest_id": 489,
     "language": "Python 3",
