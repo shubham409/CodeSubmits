@@ -6999,6 +6999,23 @@
     ],
     "timestamp": "May/24/2021 23:56"
   },
+  "CF117526200": {
+    "contest_id": 363,
+    "language": "Python 3",
+    "path": "codeforces\\363\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fence",
+    "problem_url": "https://codeforces.com/contest/363/problem/B",
+    "submission_id": "CF117526200",
+    "submission_url": "https://codeforces.com/contest/363/submission/117526200",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1100"
+    ],
+    "timestamp": "May/27/2021 23:25"
+  },
   "CF117527568": {
     "contest_id": 1343,
     "language": "Python 3",
