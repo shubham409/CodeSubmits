@@ -7152,6 +7152,22 @@
     ],
     "timestamp": "May/27/2021 23:42"
   },
+  "CF118307182": {
+    "contest_id": 1249,
+    "language": "Python 3",
+    "path": "codeforces\\1249\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Dividing into Teams",
+    "problem_url": "https://codeforces.com/contest/1249/problem/A",
+    "submission_id": "CF118307182",
+    "submission_url": "https://codeforces.com/contest/1249/submission/118307182",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/03/2021 23:56"
+  },
   "CF118449393": {
     "contest_id": 1535,
     "language": "Python 3",
