@@ -7152,6 +7152,25 @@
     ],
     "timestamp": "May/27/2021 23:42"
   },
+  "CF118307007": {
+    "contest_id": 1207,
+    "language": "Python 3",
+    "path": "codeforces\\1207\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "There Are Two Types Of Burgers",
+    "problem_url": "https://codeforces.com/contest/1207/problem/A",
+    "submission_id": "CF118307007",
+    "submission_url": "https://codeforces.com/contest/1207/submission/118307007",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/03/2021 23:54"
+  },
   "CF118307061": {
     "contest_id": 1206,
     "language": "Python 3",
