@@ -7152,6 +7152,23 @@
     ],
     "timestamp": "May/27/2021 23:42"
   },
+  "CF118307061": {
+    "contest_id": 1206,
+    "language": "Python 3",
+    "path": "codeforces\\1206\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Choose Two Numbers",
+    "problem_url": "https://codeforces.com/contest/1206/problem/A",
+    "submission_id": "CF118307061",
+    "submission_url": "https://codeforces.com/contest/1206/submission/118307061",
+    "tags": [
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/03/2021 23:54"
+  },
   "CF118307182": {
     "contest_id": 1249,
     "language": "Python 3",

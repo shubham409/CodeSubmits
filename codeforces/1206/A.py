@@ -1,0 +1,5 @@
+Z=input()
+z=map(int,input().split())
+Y=input()
+y=map(int,input().split())
+print(max(z),max(y))
