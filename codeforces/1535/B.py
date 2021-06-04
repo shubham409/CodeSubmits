@@ -1,6 +1,7 @@
 from math import gcd
 
 def fun(ls,n):
+    st=sorted(ls)
     even=[]
     rest=[]
     for i in ls:
