@@ -1,7 +1,7 @@
 from math import gcd
 
 def fun(ls,n):
-    st=sorted(ls)
+    st=sorted(ls)[::-1]
     even=[]
     rest=[]
     for i in ls:
