@@ -7152,6 +7152,23 @@
     ],
     "timestamp": "May/27/2021 23:42"
   },
+  "CF118449795": {
+    "contest_id": 1535,
+    "language": "Python 3",
+    "path": "codeforces\\1535\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fair Playoff",
+    "problem_url": "https://codeforces.com/contest/1535/problem/A",
+    "submission_id": "CF118449795",
+    "submission_url": "https://codeforces.com/contest/1535/submission/118449795",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/04/2021 23:44"
+  },
   "CF118449905": {
     "contest_id": 1535,
     "language": "Python 3",
