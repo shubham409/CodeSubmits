@@ -7152,6 +7152,23 @@
     ],
     "timestamp": "May/27/2021 23:42"
   },
+  "CF118533932": {
+    "contest_id": 1488,
+    "language": "Kotlin",
+    "path": "codeforces\\1488\\A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "From Zero To Y",
+    "problem_url": "https://codeforces.com/contest/1488/problem/A",
+    "submission_id": "CF118533932",
+    "submission_url": "https://codeforces.com/contest/1488/submission/118533932",
+    "tags": [
+      "*special problem",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/05/2021 23:51"
+  },
   "CF118534130": {
     "contest_id": 255,
     "language": "Python 3",
