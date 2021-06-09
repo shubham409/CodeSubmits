@@ -7152,6 +7152,24 @@
     ],
     "timestamp": "May/27/2021 23:42"
   },
+  "CF118909327": {
+    "contest_id": 1419,
+    "language": "PyPy 3",
+    "path": "codeforces\\1419\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Digit Game",
+    "problem_url": "https://codeforces.com/contest/1419/problem/A",
+    "submission_id": "CF118909327",
+    "submission_url": "https://codeforces.com/contest/1419/submission/118909327",
+    "tags": [
+      "games",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/09/2021 23:14"
+  },
   "CF118909341": {
     "contest_id": 1415,
     "language": "PyPy 3",
