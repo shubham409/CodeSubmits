@@ -7152,6 +7152,23 @@
     ],
     "timestamp": "May/27/2021 23:42"
   },
+  "CF119395189": {
+    "contest_id": 1334,
+    "language": "PyPy 3",
+    "path": "codeforces\\1334\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Middle Class",
+    "problem_url": "https://codeforces.com/contest/1334/problem/B",
+    "submission_id": "CF119395189",
+    "submission_url": "https://codeforces.com/contest/1334/submission/119395189",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jun/13/2021 23:58"
+  },
   "CF119479702": {
     "contest_id": 1385,
     "language": "PyPy 3",
