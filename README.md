@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-372 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [Python 3](./codeforces/1542/A.py) | `math` `*800` | Jul/18/2021 23:46 | 
-371 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [Python 3](./codeforces/1542/B.py) | `constructive algorithms` `math` `number theory` `*1500` | Jul/18/2021 23:45 | 
-370 | [B - Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | [Python 3](./codeforces/1534/B.py) | `greedy` `implementation` `math` `*1100` | Jun/26/2021 23:47 | 
-369 | [C - Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | [Python 3](./codeforces/1537/C.py) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Jun/26/2021 23:47 | 
+373 | [A - Odd Set](https://codeforces.com/contest/1542/problem/A) | [Python 3](./codeforces/1542/A.py) | `math` `*800` | Jul/18/2021 23:46 | 
+372 | [B - Plus and Multiply](https://codeforces.com/contest/1542/problem/B) | [Python 3](./codeforces/1542/B.py) | `constructive algorithms` `math` `number theory` `*1500` | Jul/18/2021 23:45 | 
+371 | [B - Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | [Python 3](./codeforces/1534/B.py) | `greedy` `implementation` `math` `*1100` | Jun/26/2021 23:47 | 
+370 | [C - Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | [Python 3](./codeforces/1537/C.py) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Jun/26/2021 23:47 | 
+369 | [C - Stable Groups](https://codeforces.com/contest/1539/problem/C) | [Python 3](./codeforces/1539/C.py) | `greedy` `sortings` `*1200` | Jun/26/2021 23:46 | 
 368 | [C - Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | [Python 3](./codeforces/1343/C.py) | `dp` `greedy` `two pointers` `*1200` | May/27/2021 23:42 | 
 367 | [B - Fence](https://codeforces.com/contest/363/problem/B) | [Python 3](./codeforces/363/B.py) | `brute force` `dp` `*1100` | May/27/2021 23:25 | 
 366 | [C - Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | [Python 3](./codeforces/489/C.py) | `dp` `greedy` `implementation` `*1400` | May/27/2021 22:57 | 
