@@ -7152,6 +7152,22 @@
     ],
     "timestamp": "May/27/2021 23:42"
   },
+  "CF122955233": {
+    "contest_id": 1542,
+    "language": "Python 3",
+    "path": "codeforces\\1542\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Set",
+    "problem_url": "https://codeforces.com/contest/1542/problem/A",
+    "submission_id": "CF122955233",
+    "submission_url": "https://codeforces.com/contest/1542/submission/122955233",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/18/2021 23:46"
+  },
   "CF83929825": {
     "contest_id": 4,
     "language": "Python 3",
